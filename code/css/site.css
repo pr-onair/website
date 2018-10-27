@@ -1,0 +1,97 @@
+/* ====================== HEADER ====================== */
+.top {
+	overflow: hidden;
+	padding: 2rem;
+}
+.top-icon {
+	float: left;
+	width: 20px;
+}
+.top-nav {
+	float: right;
+}
+.top-nav li {
+	display: inline-block;
+}
+.top-nav li + li {
+	margin-left: 1rem;
+}
+
+.header.section {
+	padding-bottom: 9rem;
+}
+.header .headline {
+	font-family: 'Krub', serif;
+	font-size: 4rem;
+}
+.header-body,
+.header-icon,
+.header .btn {
+	vertical-align: bottom;
+}
+
+/* ====================== BUTTON ====================== */
+.btn,
+a.btn {
+	display: inline-block;
+	appearance: none;
+	border: none;
+	background: var(--action);
+	font-size: 1.2rem;
+	padding: 1rem 2rem;
+	border-radius: 1rem;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: var(--action-fg);
+	text-align: center;
+	cursor: pointer;
+	text-decoration: none;
+}
+.btn:hover {
+	color: var(--action-fg);
+	text-decoration: underline;
+}
+.btn:disabled,
+.btn:disabled:hover {
+	opacity: 0.5;
+	cursor: not-allowed;
+	text-decoration: none;
+}
+
+/* ====================== SECTION ====================== */
+.section {
+	padding: 4rem 1rem;
+	text-align: center;
+}
+.section-uber-uns {
+	background: var(--bg2);
+	color: var(--fg2);
+}
+.section-dienstleistungen {
+	background: var(--bg3);
+	color: var(--fg3);
+}
+.section-referenzen {
+	background: var(--bg4);
+	color: var(--fg4);
+}
+.section-kontakt {
+	background: var(--bg5);
+	color: var(--fg5);
+}
+/* @media (min-width: 500px) {
+	.section {
+		display: grid;
+		grid-template-columns: repeat( 12, [col-start] 1fr );
+		grid-column: col-start / -1;
+		grid-gap: var(--gridGap);
+	}
+} */
+
+/* ====================== FOOTER ====================== */
+footer {
+	background: var(--bg5);
+	color: var(--fg5);
+	padding: 3rem 1rem 1rem 1rem;
+	text-align: center;
+}

@@ -1,0 +1,36 @@
+import React, { Fragment } from 'react';
+import PropTypes from 'prop-types';
+
+
+/**
+ * The Section component
+ */
+const Section = ({ headline, id, _body, _relativeURL, _ID }) => (
+	<section className={`section section-${ id }`}>
+		<h2 className="contentHeadline" id={ id } tabIndex="0">{ headline }</h2>
+		<div className="section-content">
+			{ _body }
+		</div>
+	</section>
+);
+
+Section.propTypes = {
+	/**
+	 * headline: Section
+	 */
+	headline: PropTypes.string.isRequired,
+
+	/**
+	 * id: uber-uns
+	 */
+	id: PropTypes.string,
+
+	/**
+	 * _body: (text)(12)
+	 */
+	_body: PropTypes.node.isRequired,
+};
+
+Section.defaultProps = {};
+
+export default Section;
