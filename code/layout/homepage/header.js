@@ -6,20 +6,35 @@ import React from 'react';
 /**
  * The homepage header component
  */
-const HomepageHeader = ({ headline, _relativeURL, _ID }) => (
+const HomepageHeader = ({ headline, _relativeURL, _ID, _pages }) => (
 	<section className="header section">
-		<h1 className="headline" id="hallo" tabIndex="0">{ headline }</h1>
+		<h1 className="headline js-scrollspytarget" id="hallo" tabIndex="0">{ headline }</h1>
 		<div className="header-body">
 			<svg className="header-icon" role="img">
 				<title>Microfon</title>
 				<use xlinkHref={ SVGSprite( `microphone`, _relativeURL, _ID ) }/>
 			</svg>
-			<a className="js-scroll btn" href="#kontakt">Kontakt</a>
+			<svg className="header-icon" role="img">
+				<title>Headset</title>
+				<use xlinkHref={ SVGSprite( `headset`, _relativeURL, _ID ) }/>
+			</svg>
+			{/*<a className="js-scroll btn" href="#kontakt">Kontakt</a>*/}
 			<svg className="header-icon" role="img">
 				<title>Radio</title>
 				<use xlinkHref={ SVGSprite( `radio`, _relativeURL, _ID ) }/>
 			</svg>
 		</div>
+		<nav className="header-side js-scrollspy-wrapper">
+			<ul className="list">
+				{
+					_pages.index.nav.map( ( page, i ) =>
+						<li key={ i }>
+							<a className="js-scroll js-scrollspy" href={`#${ page.id }`}>{ page.name }</a>
+						</li>
+					)
+				}
+			</ul>
+		</nav>
 	</section>
 );
 

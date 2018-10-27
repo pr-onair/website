@@ -22,12 +22,18 @@
 }
 .header .headline {
 	font-family: 'Krub', serif;
+	font-weight: 700;
 	font-size: 4rem;
 }
 .header-body,
 .header-icon,
 .header .btn {
 	vertical-align: bottom;
+}
+.header-icon {
+	margin-top: 2rem;
+	height: 6rem;
+	width: auto;
 }
 
 /* ====================== BUTTON ====================== */
@@ -94,4 +100,43 @@ footer {
 	color: var(--fg5);
 	padding: 3rem 1rem 1rem 1rem;
 	text-align: center;
+}
+
+/* ====================== SIDE ====================== */
+.header-side {
+	position: fixed;
+	top: 50%;
+	right: 0;
+	border: 3px solid #222;
+	border-right: none;
+	border-top-left-radius: 1rem;
+	border-bottom-left-radius: 1rem;
+	background-color: rgba( 255, 255, 255, 0.9);
+	padding: 1rem;
+	text-align: right;
+}
+.header-side li a {
+	position: relative;
+	display: block;
+	padding: 1rem 1.5rem 1rem 0;
+	font-family: 'Krub', serif;
+	font-weight: 700;
+	font-size: 18px;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+.header-side li a:after {
+	content: " ";
+	position: absolute;
+	right: 0.5rem;
+	top: 1.5rem;
+	background: #222;
+	border-radius: 50%;
+	width: 0.5rem;
+	height: 0.5rem;
+	opacity: 0;
+	transition: opacity 0.3s ease;
+}
+.header-side li a.is-scrolledto:after {
+	opacity: 1;
 }

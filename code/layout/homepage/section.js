@@ -7,7 +7,7 @@ import PropTypes from 'prop-types';
  */
 const Section = ({ headline, id, _body, _relativeURL, _ID }) => (
 	<section className={`section section-${ id }`}>
-		<h2 className="contentHeadline" id={ id } tabIndex="0">{ headline }</h2>
+		<h2 className="contentHeadline js-scrollspytarget" id={ id } tabIndex="0">{ headline }</h2>
 		<div className="section-content">
 			{ _body }
 		</div>
