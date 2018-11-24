@@ -8,7 +8,7 @@ import React from 'react';
  * @disable-docs
  */
 const Partial = ({ _body, _self }) => (
-	<section className="row" id={ _self.split('/').slice(-1).join('').replace('.md', '') } tabIndex="0">
+	<section className="partial">
 		{ _body }
 	</section>
 );

@@ -6,7 +6,7 @@ import React from 'react';
 /**
  * The homepage header component
  */
-const HomepageHeader = ({ headline, _relativeURL, _ID, _pages }) => (
+const HomepageHeader = ({ headline, nav, _relativeURL, _ID, _pages }) => (
 	<section className="header section">
 		<h1 className="headline js-scrollspytarget" id="hallo" tabIndex="0">{ headline }</h1>
 		<div className="header-body">
@@ -27,9 +27,18 @@ const HomepageHeader = ({ headline, _relativeURL, _ID, _pages }) => (
 		<nav className="header-side js-scrollspy-wrapper">
 			<ul className="list">
 				{
-					_pages.index.nav.map( ( page, i ) =>
+					nav.map( ( page, i ) =>
 						<li key={ i }>
-							<a className="js-scroll js-scrollspy" href={`#${ page.id }`}>{ page.name }</a>
+							{
+								page.name
+									? <a className="js-scroll js-scrollspy" href={`#${ page.id }`}>{ page.name }</a>
+									: <a href={`${ page.facebook }`} target="_blank" rel="noopener noreferrer">
+											<svg role="img">
+												<title>Facebook PR On Air</title>
+												<use xlinkHref={ SVGSprite( `facebook`, _relativeURL, _ID ) }/>
+											</svg>
+										</a>
+							}
 						</li>
 					)
 				}

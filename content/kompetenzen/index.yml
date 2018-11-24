@@ -1,0 +1,7 @@
+pagetitle: Kompetenzen
+
+header:
+  - /_shared/header.md
+
+body:
+  - body.md

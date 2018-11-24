@@ -12,18 +12,18 @@ const Page = ({
 	main,
 	body,
 	footer,
+	description,
 	_pages,
 	_relativeURL,
 	_ID,
 }) => (
 	<html>
-		<Head _ID={ _ID } _relativeURL={ _relativeURL } pagetitle={ pagetitle }/>
+		<Head _ID={ _ID } _relativeURL={ _relativeURL } pagetitle={ pagetitle } description={ description }/>
 
 		<body className={ _ID }>
 			{ header }
 
 			<main>
-				{ body ? null : <div className="row"><a href={ _relativeURL( '/', _ID ) }>← Back home</a></div> }
 				{ main }
 				{ body && body }
 			</main>
@@ -54,7 +54,12 @@ Page.propTypes = {
 	/**
 	 * footer: (partials)(2)
 	 */
-	footer: PropTypes.node.isRequired,
+	footer: PropTypes.node,
+
+	/**
+	 * description: This is x y and z
+	 */
+	description: PropTypes.string,
 };
 
 export default Page;

@@ -1,0 +1,7 @@
+pagetitle: Impressum
+
+header:
+  - /_shared/header.md
+
+body:
+  - body.md

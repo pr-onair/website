@@ -1,0 +1,18 @@
+---
+---
+
+[← Startseite](/)
+
+## Platzierung
+Mit persönlicher Senderbetreuung gewährleiten wir eine individuelle, zielgruppengerechte Ansprache der Radiosender. Denn nichts steuert den Erfolg einer Aktion
+mehr als der direkte Austausch mit Redaktionen. Unsere Erfolge erzielen wir nicht von heute auf morgen. Im Gegenteil: Wir geben einer Kampagne Zeit und bringen
+mit vollem Einsatz Ihr Thema on air.
+
+## Gewinnspiele
+Gut beraten ist, wer sich mit seinem Beitragsangebot von der Masse absetzt und attraktive Pakete schnürt – mit kleinen Extras wie Sounds und/oder
+Straßenumfragen, aber vor allem mit Gewinnspielangeboten. Wir wissen: Insbesondere reichweitenstarke Stationen kooperieren häufig nur aufgrund des „Mehrwerts“
+einer Gewinnspielaktion.
+
+## Sendemitschnitte
+Hörbeispiele gehören zu einer guten Projektdokumentation dazu – PR ON AIR liefert. Denn nur ein Sendemitschnitt kann vermitteln, wie Moderatoren einen Beitrag
+einleiten, wie das O-Ton-Paket zu einem Radio-Interview wird oder wie Hörer sich über einen Gewinn freuen.

@@ -20,7 +20,7 @@ const Header = ({ nav, _relativeURL, _ID }) => (
 					{
 						nav.map( ( page, i ) =>
 							<li key={ i }>
-								<a className="js-scroll" href={`#${ page.id }`}>{ page.name }</a>
+								<a href={`${ _relativeURL( page.url, _ID ) }`}>{ page.name }</a>
 							</li>
 						)
 					}
@@ -33,16 +33,16 @@ const Header = ({ nav, _relativeURL, _ID }) => (
 Header.propTypes = {
 	/**
 	 * nav:
-	 *   - id: hallo
+	 *   - url: hallo
 	 *     name: Hallo
-	 *   - id: uber-uns
+	 *   - url: uber-uns
 	 *     name: Über uns
-	 *   - id: dienstleistungen
+	 *   - url: dienstleistungen
 	 *     name: Dienstleistungen
 	 */
 	nav: PropTypes.arrayOf(
 		PropTypes.shape({
-			id: PropTypes.string.isRequired,
+			url: PropTypes.string.isRequired,
 			name: PropTypes.string.isRequired,
 		})
 	).isRequired,
