@@ -7,7 +7,7 @@ refs:
     url: https://www.ubisoft.com
     svg: ubisoft
   - name: Take-Two
-    #url: https://www.ubisoft.com
+    url: https://www.ubisoft.com
     svg: take-two
   - name: Oral B
     url: https://www.TODO.com
@@ -31,5 +31,3 @@ refs:
     url: https://www.viacom.com
     svg: viacom
 ---
-
-TODO

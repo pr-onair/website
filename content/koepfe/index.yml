@@ -1,0 +1,7 @@
+pagetitle: Köpfe
+
+header:
+  - /_shared/header.md
+
+body:
+  - body.md

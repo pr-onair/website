@@ -25,7 +25,7 @@
 	padding-bottom: 9rem;
 }
 .header .headline {
-	font-family: 'Krub', serif;
+	font-family: 'Krub', sans-serif;
 	font-weight: 700;
 	font-size: 5rem;
 	margin: 1rem 0;
@@ -79,45 +79,15 @@ a.btn {
 	text-decoration: none;
 }
 
-/* ====================== SECTION ====================== */
-.section {
-	padding: 4rem 1rem;
-	text-align: center;
-}
-.section-uber-uns {
-	background: var(--bg2);
-	color: var(--fg2);
-}
-.section-uber-uns a {
-	color: var(--fg2);
-}
-.section-kompetenzen {
-	background: var(--bg3);
-	color: var(--fg3);
-}
-.section-referenzen {
-	background: var(--bg4);
-	color: var(--fg4);
-}
-.section-kontakt {
-	background: var(--bg5);
-	color: var(--fg5);
-}
-.section-content {
-	max-width: 42em;
-	margin: 0 auto;
-	text-align: left;
-	font-size: 1.2rem;
-}
-.section-headline {
-	text-transform: uppercase;
-	font-size: 2rem;
-}
-
 /* ====================== PARTIAL ====================== */
 .partial {
 	max-width: 42em;
 	margin: 1rem auto 10rem auto;
+}
+.partial img {
+	max-width: 100%;
+	width: 150px;
+	display: block;
 }
 
 /* ====================== FOOTER ====================== */
@@ -199,5 +169,19 @@ footer {
 @media (min-width: 550px) {
 	.references {
 		grid-template-columns: repeat( 3, [col-start] 1fr );
+	}
+}
+
+/* ====================== LOCATION ====================== */
+.location {
+	display: grid;
+	grid-template-columns: repeat( 1, [col-start] 1fr );
+	grid-gap: 0.5rem;
+	max-width: 70rem;
+	margin: 0 auto;
+}
+@media (min-width: 900px) {
+	.location {
+		grid-template-columns: repeat( 2, [col-start] 1fr );
 	}
 }
