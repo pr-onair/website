@@ -7,21 +7,21 @@
 
 **Angaben gem&auml;&szlig; &sect; 5 TMG**
  
-PR ON AIR UG (haftungsbeschr&auml;nkt)
-Holbeinstra&szlig;e 29
+PR ON AIR UG (haftungsbeschr&auml;nkt)<br>
+Holbeinstra&szlig;e 29<br>
 04229 Leipzig
  
-Handelsregister: HRB 35269
+Handelsregister: HRB 35269<br>
 Registergericht: Amtsgericht Leipzig
  
-**Vertreten durch die Gesellschafter:**
-Britta Borgsen
+**Vertreten durch die Gesellschafter:**<br>
+Britta Borgsen<br>
 Christian Goller
  
 ## Kontakt
  
-Telefon: +49 (0) 341 484 74 303
-Telefax: +49 (0) 341 484 74 491
+Telefon: +49 (0) 341 484 74 303<br>
+Telefax: +49 (0) 341 484 74 491<br>
 E-Mail: info@pr-on-air.de
  
 ## Umsatzsteuer
@@ -29,9 +29,9 @@ E-Mail: info@pr-on-air.de
 Umsatzsteuer-Identifikationsnummer gem&auml;&szlig; &sect;27 a Umsatzsteuergesetz:
 DE 319 859 988
  
-**Verantwortlich f&uuml;r den Inhalt nach &sect; 55 Abs. 2 RStV**
-Britta Borgsen, Christian Goller
-Holbeinstra&szlig;e 29
+**Verantwortlich f&uuml;r den Inhalt nach &sect; 55 Abs. 2 RStV**<br>
+Britta Borgsen, Christian Goller<br>
+Holbeinstra&szlig;e 29<br>
 04229 Leipzig
  
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.

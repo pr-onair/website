@@ -46,7 +46,7 @@ const Head = ({ description, _ID, _relativeURL, pagetitle }) => {
 			<meta name="twitter:name" content="PR on Air"/>
 			<meta name="twitter:image" content={`https://pr-on-air.de/assets/img/og-image.jpg?v${ pkg.version }`}/>
 			<style dangerouslySetInnerHTML={{ __html: Styles() }} />
-			<link href="https://fonts.googleapis.com/css?family=Krub:700" rel="stylesheet"/>
+			<link href="https://fonts.googleapis.com/css?family=Quicksand:700" rel="stylesheet"/>
 			<link rel="stylesheet" href={_relativeURL(`/assets/css/site.min.css`, _ID)}/>
 		</head>
 	);

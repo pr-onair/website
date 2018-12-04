@@ -1,5 +1,3 @@
 ---
 layout: footer
 ---
-
-[Impressum](/impressum)

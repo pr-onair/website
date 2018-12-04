@@ -1,7 +1,0 @@
-pagetitle: Über uns
-
-header:
-  - /_shared/header.md
-
-body:
-  - body.md
