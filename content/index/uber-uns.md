@@ -1,5 +1,5 @@
 ---
-layout: homepage/section
+layout: homepage/expand
 id: uber-uns
 headline: Über uns
 sections:

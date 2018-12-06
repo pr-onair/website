@@ -48,13 +48,13 @@ a.btn {
 	display: inline-block;
 	appearance: none;
 	border: none;
-	background: var(--action);
+	background: var(--bg3);
 	font-size: 1.2rem;
 	padding: 1rem 2rem;
-	border-radius: 1rem;
+	border-radius: 0.5rem;
 	text-transform: uppercase;
 	font-weight: bold;
-	color: var(--action-fg);
+	color: var(--fg3);
 	text-align: center;
 	cursor: pointer;
 	text-decoration: none;
@@ -174,4 +174,21 @@ footer {
 @media (min-width: 900px) {
 	.location {
 	}
+}
+
+/* ====================== EXPAND ====================== */
+.section-kompetenzen .expand-button {
+	background: var(--bg2);
+	color: var(--fg2);
+}
+.expand-button + .expand-button {
+	margin-left: 1rem;
+	margin-top: 1rem;
+}
+.expand-body {
+	overflow: hidden;
+	height: 0;
+	max-width: 42em;
+	text-align: left;
+	margin: 1rem auto 0 auto;
 }
