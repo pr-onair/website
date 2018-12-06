@@ -18,10 +18,29 @@ const Section = ({ headline, map, id, phone, email, facebook, address1, address2
 				{ address1 && <Fragment>{ address1 }<br/></Fragment> }
 				{ address2 && address2 }
 			</p>
-			{ phone && <Fragment>{ phone }<br/></Fragment> }
-			{ email && email }
+			{
+				phone &&
+					<a href={`tel:${ phone }`}>
+						<svg className="texticon" role="img">
+							<title>phone</title>
+							<use xlinkHref={ SVGSprite( `phone`, _relativeURL, _ID ) }/>
+						</svg>
+						{ phone }
+						<br/>
+					</a>
+			}
+			{
+				email &&
+					<a href={`mailto:${ email }`}>
+						<svg className="texticon" role="img">
+							<title>email</title>
+							<use xlinkHref={ SVGSprite( `email`, _relativeURL, _ID ) }/>
+						</svg>
+						{ email }
+					</a>
+			}
 			{ facebook && <p>Wir bei <br/><a href={ facebook }>Facebook</a></p> }
-			{ _body && _body }
+			{ _body && <div className="section-body">{ _body }</div> }
 			{
 				map && <iframe className="row-h content location-map" src={ map } width="100%" height="400" frameBorder="0" allowFullScreen></iframe>
 			}

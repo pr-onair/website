@@ -126,3 +126,6 @@ a:focus {
 	text-transform: uppercase;
 	font-size: 2rem;
 }
+.section-body {
+	margin-top: 3rem;
+}

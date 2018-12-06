@@ -30,4 +30,13 @@ refs:
   - name: Viacom
     # url: https://www.viacom.com
     svg: viacom
+  - name: Rotkäpchen
+    # url: https://TODO.com
+    svg: rotkaepchen
+  - name: Stage
+    # url: https://TODO.com
+    svg: stage
+  - name: Studienkreis
+    # url: https://TODO.com
+    svg: studienkreis
 ---

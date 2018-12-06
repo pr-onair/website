@@ -14,16 +14,18 @@ const Expand = ({ headline, id, _body, _self, sections, _relativeURL, _parseMD, 
 			<div className="section-content">
 				{ _body }
 			</div>
-			{
-				sections && sections.map( ( section, id ) =>
-					<Fragment key={ id }>
-						<button className="btn expand-button js-expand" data-expand={`#section${ id }-${ myself }`} data-section={ myself }>
-							+ { section.title }
-						</button>
-					</Fragment>
-				)
-			}
-
+			<div className="expand-wrapper">
+				{
+					sections && sections.map( ( section, id ) =>
+						<div className="expand-col" key={ id }>
+							<img src={ _relativeURL( `/assets/img/${ section.img }`, _ID ) } alt={ section.title }/>
+							<button className="btn expand-button js-expand" data-expand={`#section${ id }-${ myself }`} data-section={ myself }>
+								+ { section.title }
+							</button>
+						</div>
+					)
+				}
+			</div>
 			{
 				sections && sections.map( ( section, id ) =>
 					<div key={ id } className={`expand-body js-expandable-${ myself }`} id={`section${ id }-${ myself }`}>
