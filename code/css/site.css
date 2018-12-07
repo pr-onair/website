@@ -175,26 +175,21 @@ footer {
 	height: 1rem;
 	width: 2rem;
 }
-@media (min-width: 900px) {
-	.location {
-	}
-}
 
 /* ====================== EXPAND ====================== */
 .expand-wrapper {
-	display: grid;
-	grid-template-columns: repeat( 3, [col-start] 1fr );
-	grid-gap: 1rem;
+	display: block;
 	margin-top: 2rem;
 }
 .expand-col img {
+	display: none;
 	max-width: 100%;
 }
 .section-kompetenzen .expand-button {
 	background: var(--bg2);
 	color: var(--fg2);
 }
-.expand-button + .expand-button {
+.expand-col + .expand-col {
 	margin-left: 1rem;
 	margin-top: 1rem;
 }
@@ -205,4 +200,15 @@ footer {
 	max-width: 42em;
 	text-align: left;
 	margin: 1rem auto 0 auto;
+}
+@media (min-width: 950px) {
+	.expand-wrapper {
+		display: grid;
+		grid-template-columns: repeat( 3, [col-start] 1fr );
+		grid-gap: 1rem;
+	}
+	.expand-col img {
+		display: block;
+		margin-bottom: 1rem;
+	}
 }
