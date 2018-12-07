@@ -62,7 +62,7 @@ Reference.propTypes = {
 	 */
 	refs: PropTypes.arrayOf(
 		PropTypes.shape({
-			url: PropTypes.string.isRequired,
+			url: PropTypes.string,
 			name: PropTypes.string.isRequired,
 			img: PropTypes.string,
 			svg: PropTypes.string,

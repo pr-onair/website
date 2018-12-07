@@ -189,7 +189,7 @@ footer {
 	background: var(--bg2);
 	color: var(--fg2);
 }
-.expand-col + .expand-col {
+.expand-col {
 	margin-left: 1rem;
 	margin-top: 1rem;
 }
