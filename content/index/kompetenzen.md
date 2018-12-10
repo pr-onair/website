@@ -6,7 +6,7 @@ sections:
   - title: Platzierung
     content: |
       ## Platzierung
-      Mit persönlicher Senderbetreuung gewährleiten wir eine individuelle, zielgruppengerechte Ansprache der Radiosender. Denn nichts steuert den Erfolg einer
+      Mit persönlicher Senderbetreuung gewährleisten wir eine individuelle, zielgruppengerechte Ansprache der Radiosender. Denn nichts steuert den Erfolg einer
       Aktion mehr als der direkte Austausch mit Redaktionen. Unsere Erfolge erzielen wir nicht von heute auf morgen. Im Gegenteil: Wir geben einer Kampagne Zeit
       und bringen mit vollem Einsatz Ihr Thema on air.
     img: platzierung.jpg

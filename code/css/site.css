@@ -22,13 +22,13 @@
 }
 
 .header.section {
-	padding-bottom: 16vw;
+	padding-bottom: 8vw;
 	padding-top: 1rem;
 }
 .header .headline {
 	font-family: 'Krub', sans-serif;
 	font-weight: 700;
-	font-size: 11.7vw;
+	font-size: 5.7vw;
 	margin: 1rem 0;
 }
 .header-body,
@@ -38,8 +38,8 @@
 }
 .header-icon {
 	margin-top: 5rem;
-	height: 11vw;
-	width: 30vw;
+	height: 6vw;
+	width: 15vw;
 }
 
 /* ====================== BUTTON ====================== */
@@ -55,7 +55,6 @@ a.btn {
 	text-transform: uppercase;
 	font-weight: bold;
 	color: var(--fg3);
-	text-align: center;
 	cursor: pointer;
 	text-decoration: none;
 }
@@ -73,24 +72,25 @@ a.btn {
 /* ====================== PARTIAL ====================== */
 .partial {
 	max-width: 42em;
-	margin: 1rem auto 10rem auto;
+	margin: 0 auto;
+	padding: 1rem 0;
+}
+.partial-top .partial {
+	padding: 0;
+	text-align: left;
 }
 .partial img {
 	max-width: 100%;
 	width: 150px;
 	display: block;
-}
-.partial h2 {
-	text-align: center;
+	margin: 0 auto;
 }
 
 /* ====================== FOOTER ====================== */
-footer {
+footer:not(:empty) {
 	background: var(--bg5);
 	color: var(--fg5);
 	padding: 3rem 1rem 1rem 1rem;
-	text-align: center;
-	padding-top: 25rem;
 	padding-bottom: 5rem;
 }
 
@@ -147,28 +147,32 @@ footer {
 	grid-template-columns: repeat( 1, [col-start] 1fr );
 	grid-gap: 0.5rem;
 	grid-row-gap: 3rem;
-	text-align: center;
-	margin-top: 3rem;
+	max-width: 1400px;
+	margin: 4rem auto 0 auto;
 }
 .references svg,
 .references img {
 	width: 150px;
 	height: auto;
 }
-@media (min-width: 400px) {
+@media (min-width: 550px) {
 	.references {
 		grid-template-columns: repeat( 2, [col-start] 1fr );
 	}
 }
-@media (min-width: 550px) {
+@media (min-width: 700px) {
 	.references {
 		grid-template-columns: repeat( 3, [col-start] 1fr );
+	}
+}
+@media (min-width: 1000px) {
+	.references {
+		grid-template-columns: repeat( 4, [col-start] 1fr );
 	}
 }
 
 /* ====================== LOCATION ====================== */
 .section-content.location {
-	text-align: center;
 	line-height: 1.5;
 }
 .texticon {
@@ -180,6 +184,8 @@ footer {
 .expand-wrapper {
 	display: block;
 	margin-top: 2rem;
+	max-width: 1400px;
+	margin: 0 auto;
 }
 .expand-col img {
 	display: none;
@@ -190,7 +196,6 @@ footer {
 	color: var(--fg2);
 }
 .expand-col {
-	margin-left: 1rem;
 	margin-top: 1rem;
 }
 .expand-body {
@@ -198,17 +203,16 @@ footer {
 	font-size: 1.2rem;
 	height: 0;
 	max-width: 42em;
-	text-align: left;
 	margin: 1rem auto 0 auto;
 }
 @media (min-width: 950px) {
 	.expand-wrapper {
 		display: grid;
 		grid-template-columns: repeat( 3, [col-start] 1fr );
-		grid-gap: 1rem;
+		grid-gap: 2rem;
 	}
 	.expand-col img {
 		display: block;
-		margin-bottom: 1rem;
+		margin-bottom: 2rem;
 	}
 }

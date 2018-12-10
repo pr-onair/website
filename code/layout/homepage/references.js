@@ -11,7 +11,6 @@ const ConditionalWrap = ({ condition, wrap, children }) => condition ? wrap( chi
 const Reference = ({ headline, id, refs, _body, _relativeURL, _ID }) => (
 	<section className={`section section-${ id }`}>
 		<h2 className="section-headline js-scrollspytarget" id={ id } tabIndex="0">{ headline }</h2>
-		<div className="section-content">
 		<ul className="references list">
 			{
 				refs.map( ( ref, i ) => {
@@ -33,7 +32,6 @@ const Reference = ({ headline, id, refs, _body, _relativeURL, _ID }) => (
 				})
 			}
 		</ul>
-		</div>
 	</section>
 );
 
