@@ -9,20 +9,14 @@ import React, { Fragment } from 'react';
  */
 const Partial = ({ top, bottom, _body, _self }) => (
 	<Fragment>
-		<section className="partial-top">
-			<div className="partial">
-				{ _body }
-			</div>
+		<section className="partial partial-top">
+			{ _body }
 		</section>
 		<section>
-			<div className="partial">
-				{ top }
-			</div>
+			{ top }
 		</section>
 		<section className="section-referenzen">
-			<div className="partial">
-				{ bottom }
-			</div>
+			{ bottom }
 		</section>
 	</Fragment>
 );

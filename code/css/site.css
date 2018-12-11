@@ -76,7 +76,11 @@ a.btn {
 	padding: 1rem 0;
 	font-size: 1.2rem;
 }
-.partial-top .partial {
+.partial p:first-child,
+.partial-top p {
+	margin: 0;
+}
+.partial-top {
 	padding: 0;
 	text-align: left;
 }
