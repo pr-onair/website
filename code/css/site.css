@@ -74,6 +74,7 @@ a.btn {
 	max-width: 42em;
 	margin: 0 auto;
 	padding: 1rem 0;
+	font-size: 1.2rem;
 }
 .partial-top .partial {
 	padding: 0;
@@ -84,6 +85,12 @@ a.btn {
 	width: 150px;
 	display: block;
 	margin: 0 auto;
+}
+.partial h2 {
+	font-size: 2rem;
+}
+.section-referenzen {
+	padding-bottom: 3rem;
 }
 
 /* ====================== FOOTER ====================== */
