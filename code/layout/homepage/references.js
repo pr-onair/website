@@ -13,22 +13,24 @@ const Reference = ({ headline, id, refs, _body, _relativeURL, _ID }) => (
 		<h2 className="section-headline js-scrollspytarget" id={ id } tabIndex="0">{ headline }</h2>
 		<ul className="references list">
 			{
-				refs.map( ( ref, i ) => {
-					let Wrapper = 'Fragment';
-					if( ref.url ) Wrapper = 'a';
+				refs
+					.sort((a, b) => a.name.localeCompare(b.name, 'de-DE-u-co-phonebk', {sensitivity: 'base'}))
+					.map( ( ref, i ) => {
+						let Wrapper = 'Fragment';
+						if( ref.url ) Wrapper = 'a';
 
-					return <li key={ i }>
-						<ConditionalWrap condition={ ref.url } wrap={ children => <a href={ ref.url }>{ children }</a> }>
-							{
-								ref.svg
-									? <svg role="img">
-											<title>{ ref.name }</title>
-											<use xlinkHref={ SVGSprite( ref.svg, _relativeURL, _ID ) }/>
-										</svg>
-									: <img src={ _relativeURL( `/assets/img/${ ref.img }`, _ID ) } alt={ ref.name }/>
-							}
-						</ConditionalWrap>
-					</li>
+						return <li key={ i }>
+							<ConditionalWrap condition={ ref.url } wrap={ children => <a href={ ref.url }>{ children }</a> }>
+								{
+									ref.svg
+										? <svg role="img">
+												<title>{ ref.name }</title>
+												<use xlinkHref={ SVGSprite( ref.svg, _relativeURL, _ID ) }/>
+											</svg>
+										: <img src={ _relativeURL( `/assets/img/${ ref.img }`, _ID ) } alt={ ref.name }/>
+								}
+							</ConditionalWrap>
+						</li>
 				})
 			}
 		</ul>

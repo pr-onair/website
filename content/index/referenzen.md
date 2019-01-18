@@ -36,7 +36,15 @@ refs:
   - name: Stage
     # url: https://TODO.com
     svg: stage
-  - name: Studienkreis
+  - name: Learn attack
     # url: https://TODO.com
-    svg: studienkreis
+    svg: learnattack
+  - name: Bristol-Myers Squibb
+    svg: bristol-myers-squibb
+  - name: MSL Group
+    svg: mslgroup
+  - name: Zucker
+    img: zucker.png
+  - name: fischerAppelt
+    img: fischerappelt.png
 ---
