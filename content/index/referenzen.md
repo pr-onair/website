@@ -12,9 +12,9 @@ refs:
   - name: Oral B
     # url: https://www.TODO.com
     svg: oralb
-  - name: Assemble
+  - name: MSC Kreuzfahrten
     # url: https://www.TODO.com
-    img: assemble.png
+    svg: msc-kreuzfahrten
   - name: DGK
     # url: https://www.TODO.com
     svg: dgk
@@ -36,9 +36,9 @@ refs:
   - name: Stage
     # url: https://TODO.com
     svg: stage
-  - name: Learn attack
+  - name: Facebook
     # url: https://TODO.com
-    svg: learnattack
+    svg: facebook-bw
   - name: Bristol-Myers Squibb
     svg: bristol-myers-squibb
   - name: MSL Group

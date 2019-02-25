@@ -48,6 +48,13 @@ const Head = ({ description, _ID, _relativeURL, pagetitle }) => {
 			<style dangerouslySetInnerHTML={{ __html: Styles() }} />
 			<link href="https://fonts.googleapis.com/css?family=Quicksand:700" rel="stylesheet"/>
 			<link rel="stylesheet" href={_relativeURL(`/assets/css/site.min.css`, _ID)}/>
+			<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131813710-1"/>
+			<script dangerouslySetInnerHTML={{ __html: `
+				window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments);}
+				gtag('js', new Date());
+				gtag('config', 'UA-131813710-1');
+			` }} />
 		</head>
 	);
 };
