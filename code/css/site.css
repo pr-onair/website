@@ -80,9 +80,12 @@ a.btn {
 .partial-top p {
 	margin: 0;
 }
+.partial-left,
+.partial-top {
+	text-align: left;
+}
 .partial-top {
 	padding: 0;
-	text-align: left;
 }
 .partial img {
 	max-width: 100%;

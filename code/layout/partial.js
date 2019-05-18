@@ -7,13 +7,18 @@ import React from 'react';
  *
  * @disable-docs
  */
-const Partial = ({ _body, _self }) => (
-	<section className="partial">
+const Partial = ({ textalign, _body, _self }) => (
+	<section className={`partial${ textalign === 'left' ? ' partial-left' : '' }`}>
 		{ _body }
 	</section>
 );
 
 Partial.propTypes = {
+	/**
+	 * textalign: center
+	 */
+	textalign: PropTypes.string,
+
 	/**
 	 * _body: (text)(12)
 	 */
