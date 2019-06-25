@@ -33,7 +33,9 @@ Install dependencies with preferably [`yarn`](https://yarnpkg.com/) and run one 
 The site is hosted via [GitHub pages](https://pages.github.com/) and needs to be build to properly deploy.
 The static files are being generated into the `./docs/` folder with [Cuttlebelle](https://cuttlebelle.com/).
 
-As a suggestion for future development: [CircleCI](http://circleci.com/) has already been setup and the site deploys automatically to [Netlify](https://www.netlify.com/) but the domain needs to be changed over to point to the Netlify sites.
+As a suggestion for future development: [CircleCI](http://circleci.com/) has already been setup and the site deploys automatically to [Netlify](https://www.netlify.com/) but the domain needs to be changed over to point to the Netlify sites. There are two targets:
+Staging: https://pronair-staging.netlify.com/
+Production: https://pronair.netlify.com/
 
 **[⬆ back to top](#contents)**
 
