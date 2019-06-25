@@ -12,7 +12,8 @@
 		"watch:headcss": "onchange 'code/css/head.css' -- npm run build:headcss",
 		"watch:site": "onchange 'code/**' 'content/**' -- npm run build:pages",
 		"watch": "npm run build && npm run watch:sitecss | npm run watch:headcss | npm run watch:site | npm run server",
-		"server": "browser-sync start --server 'docs' --files 'docs'"
+		"server": "browser-sync start --server 'docs' --files 'docs'",
+		"test": "echo \"No test specified yet\" && exit 0"
 	},
 	"dependencies": {},
 	"cuttlebelle": {
