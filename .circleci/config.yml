@@ -68,7 +68,7 @@ jobs:
 
 workflows:
   version: 2
-  publish_staging:
+  running_jobs:
     jobs:
       # In case we had an approval step
       # - give_me_approval:
