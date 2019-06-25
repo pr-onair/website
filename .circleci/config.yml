@@ -1,0 +1,95 @@
+version: 2
+
+jobs:
+# The install job for all dependencies so we can reuse/depend on it in other jobs
+  install_dependencies:
+    working_directory: ~/pronair
+    docker:
+      - image: circleci/node:lts
+    steps:
+      - checkout
+      - restore_cache:
+          keys:
+            - v1-dependencies-{{ checksum "yarn.lock" }}
+            - v1-dependencies-
+      - run: yarn
+      - run: sudo apt-get install tree # for debugging circle builds
+      - run: tree -Ca
+      - run: node -v
+      - run: npm -v
+      - save_cache:
+          paths:
+            - node_modules
+          key: v1-dependencies-{{ checksum "yarn.lock" }}
+      - persist_to_workspace:
+          root: ~/pronair/
+          paths:
+            - node_modules
+
+# Running all tests
+  testing:
+    docker:
+      - image: circleci/node:lts
+    working_directory: ~/pronair
+    steps:
+      - checkout
+      - attach_workspace:
+          at: ~/pronair
+      - run:
+          name: Testing our site
+          command: yarn test
+
+# Deploying to staging server
+  deploy_staging:
+    docker:
+      - image: circleci/node:lts
+    working_directory: ~/pronair
+    steps:
+      - checkout
+      - attach_workspace:
+          at: ~/pronair
+      - run:
+          name: Deploy staging to Netlify
+          command: curl -X POST -d {} https://api.netlify.com/build_hooks/$HOOK_STAGING
+
+# Deploying to production
+  deploy_prod:
+    docker:
+      - image: circleci/node:lts
+    working_directory: ~/pronair
+    steps:
+      - checkout
+      - attach_workspace:
+          at: ~/pronair
+      - run:
+          name: Deploy production to Netlify
+          command: curl -X POST -d {} https://api.netlify.com/build_hooks/$HOOK_PROD
+
+
+workflows:
+  version: 2
+  running_jobs:
+    jobs:
+      # In case we had an approval step
+      # - give_me_approval:
+      #     type: approval
+      - install_dependencies       # First we install dependencies
+      - testing:                   # Second we test our code
+          requires:
+            - install_dependencies
+      - deploy_staging:            # Now if success and on develop we deploy to staging
+          filters:
+            branches:
+              only: develop
+          requires:
+            # - give_me_approval
+            - install_dependencies
+            - testing
+      - deploy_prod:               # Now if success and on master we deploy to prod
+          filters:
+            branches:
+              only: master
+          requires:
+            # - give_me_approval
+            - install_dependencies
+            - testing
