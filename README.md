@@ -34,8 +34,16 @@ The site is hosted via [GitHub pages](https://pages.github.com/) and needs to be
 The static files are being generated into the `./docs/` folder with [Cuttlebelle](https://cuttlebelle.com/).
 
 As a suggestion for future development: [CircleCI](http://circleci.com/) has already been setup and the site deploys automatically to [Netlify](https://www.netlify.com/) but the domain needs to be changed over to point to the Netlify sites. There are two targets:
-Staging: https://pronair-staging.netlify.com/
-Production: https://pronair.netlify.com/
+- Staging: https://pronair-staging.netlify.com/
+- Production: https://pronair.netlify.com/
+
+All changes in `master` will automatically deploy to production and all changes to the `develop` branch will automatically deploy to staging. (Each deploy will run a test first that is so far empty)
+
+TODO:
+- Move domain over to Netlify
+- Remove `docs/` folder from git
+- Start editing content in Github and `develop` branch and see the staging site change
+
 
 **[⬆ back to top](#contents)**
 
