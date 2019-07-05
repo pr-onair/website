@@ -16,7 +16,7 @@ const Section = ({ headline, id, _body, _relativeURL, _ID }) => (
 
 Section.propTypes = {
 	/**
-	 * headline: Section
+	 * headline: Text Section
 	 */
 	headline: PropTypes.string.isRequired,
 
@@ -26,7 +26,7 @@ Section.propTypes = {
 	id: PropTypes.string,
 
 	/**
-	 * _body: (text)(12)
+	 * _body: (text)(5)
 	 */
 	_body: PropTypes.node.isRequired,
 };

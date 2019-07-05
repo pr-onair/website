@@ -13,9 +13,9 @@ const Footer = ({ _body }) => (
 
 Footer.propTypes = {
 	/**
-	 * _body: (text)(12)
+	 * _body: (text)(1)
 	 */
-	_body: PropTypes.node.isRequired,
+	_body: PropTypes.node,
 };
 
 Footer.defaultProps = {};

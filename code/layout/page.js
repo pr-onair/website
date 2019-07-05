@@ -47,6 +47,11 @@ Page.propTypes = {
 	header: PropTypes.node.isRequired,
 
 	/**
+	 * body: (partials)(2)
+	 */
+	body: PropTypes.node,
+
+	/**
 	 * main: (partials)(2)
 	 */
 	main: PropTypes.node,
@@ -59,7 +64,7 @@ Page.propTypes = {
 	/**
 	 * description: This is x y and z
 	 */
-	description: PropTypes.string,
+	description: PropTypes.string.isRequired,
 };
 
 export default Page;
