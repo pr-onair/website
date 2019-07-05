@@ -5,8 +5,9 @@ import PropTypes from 'prop-types';
 /**
  * The Section component
  */
-const Expand = ({ headline, id, _body, _self, sections, _relativeURL, _parseMD, _ID }) => {
+const Expand = ({ headline, id, sections, _body, _self, _relativeURL, _parseMD, _ID, _isDocs }) => {
 	const myself = _self.replace('/', '-').replace('.', '-');
+	const newID = _isDocs ? `/1/2/3/${ _ID }` : _ID;
 
 	return (
 		<section className={`section section-${ id }`}>
@@ -18,7 +19,7 @@ const Expand = ({ headline, id, _body, _self, sections, _relativeURL, _parseMD, 
 				{
 					sections && sections.map( ( section, id ) =>
 						<div className="expand-col" key={ id }>
-							<img src={ _relativeURL( `/assets/img/${ section.img }`, _ID ) } alt={ section.title }/>
+							<img src={ _relativeURL( `/assets/img/${ section.img }`, newID ) } alt={ section.title }/>
 							<button className="btn expand-button js-expand" data-expand={`#section${ id }-${ myself }`} data-section={ myself }>
 								+ { section.title }
 							</button>
@@ -32,6 +33,9 @@ const Expand = ({ headline, id, _body, _self, sections, _relativeURL, _parseMD, 
 						{ _parseMD( section.content ) }
 					</div>
 				)
+			}
+			{
+				_isDocs && <script type="text/javascript" src={ `../../../assets/js/script.min.js` }/>
 			}
 		</section>
 	);
@@ -49,7 +53,30 @@ Expand.propTypes = {
 	id: PropTypes.string,
 
 	/**
-	 * _body: (text)(12)
+	 * sections:
+	 *   - title: Hörfunk-PR
+	 *     content: |
+	 *       Some text
+	 *     img: hoerfunk-pr.jpg
+	 *   - title: Radiomaterndienst
+	 *     content: |
+	 *       Some other text
+	 *     img: radiomaterndienst.jpg
+	 *   - title: Sonderwerbeform
+	 *     content: |
+	 *       So much more text
+	 *     img: sonderwerbeform.jpg
+	 */
+	sections: PropTypes.arrayOf(
+		PropTypes.shape({
+			title: PropTypes.string.isRequired,
+			content: PropTypes.string.isRequired,
+			img: PropTypes.string.isRequired,
+		})
+	).isRequired,
+
+	/**
+	 * _body: (text)(1)
 	 */
 	_body: PropTypes.node.isRequired,
 };

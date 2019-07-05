@@ -4,8 +4,6 @@ import React, { Fragment } from 'react';
 
 /**
  * The partial component
- *
- * @disable-docs
  */
 const Partial = ({ top, bottom, _body, _self }) => (
 	<Fragment>
@@ -23,7 +21,17 @@ const Partial = ({ top, bottom, _body, _self }) => (
 
 Partial.propTypes = {
 	/**
-	 * _body: (text)(12)
+	 * top: (partials)(1)
+	 */
+	top: PropTypes.node.isRequired,
+
+	/**
+	 * bottom: (partials)(1)
+	 */
+	bottom: PropTypes.node.isRequired,
+
+	/**
+	 * _body: (text)(1)
 	 */
 	_body: PropTypes.node.isRequired,
 };

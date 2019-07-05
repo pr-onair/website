@@ -10,7 +10,7 @@ import Fs from 'fs';
  *
  * @disable-docs
  */
-const Head = ({ description, _ID, _relativeURL, pagetitle }) => {
+const Head = ({ pagetitle, description, _ID, _relativeURL }) => {
 	const Styles = () => Fs.readFileSync( Path.normalize(`${ __dirname }/../css/head.min.css`), 'utf8' );
 
 	return (
@@ -59,7 +59,17 @@ const Head = ({ description, _ID, _relativeURL, pagetitle }) => {
 	);
 };
 
-Head.propTypes = {};
+Head.propTypes = {
+	/**
+	 * pagetitle: Homepage
+	 */
+	pagetitle: PropTypes.string.isRequired,
+
+	/**
+	 * description: What this page is all about
+	 */
+	description: PropTypes.string.isRequired,
+};
 
 Head.defaultProps = {};
 
