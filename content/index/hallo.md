@@ -1,6 +1,6 @@
 ---
 layout: homepage/header
-headline: Hallo, wir sind PR ON AIR?
+headline: Hallo, wir sind PR ON AIR
 nav:
   - id: hallo
     name: Hallo
