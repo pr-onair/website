@@ -1,13 +1,8 @@
 pagetitle: podcast PR ON AIR
 
 description: Podcast-Informationen PR ON AIR
-
-
-
 header:
   - /_shared/header.md
-
-
-
 body:
-  - body.md
+  - corporate-podcast.md
+	- event-podcast.md
