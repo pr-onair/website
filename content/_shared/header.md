@@ -7,4 +7,6 @@ nav:
     name: Datenschutz
   - url: /koepfe/
     name: Köpfe
+  - url: /podcast/
+    name: Podcast
 ---
