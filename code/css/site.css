@@ -199,6 +199,9 @@ a.btn {
 	cursor: not-allowed;
 	text-decoration: none;
 }
+.btn--lg {
+	min-width: 14.3rem;
+}
 
 /* ====================== PARTIAL ====================== */
 .partial {

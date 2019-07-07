@@ -38,7 +38,7 @@ const Expand = ({ headline, id, sections, button, _body, _self, _relativeURL, _p
 				_isDocs && <script type="text/javascript" src={ `../../../assets/js/script.min.js` }/>
 			}
 			{
-				button && <a className="btn expand-button" href={ button.url }>{ button.title }</a>
+				button && <a className="btn btn--lg expand-button" href={ button.url }>{ button.title }</a>
 			}
 		</section>
 	);
