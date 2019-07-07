@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 /**
  * The Section component
  */
-const Expand = ({ headline, id, sections, _body, _self, _relativeURL, _parseMD, _ID, _isDocs }) => {
+const Expand = ({ headline, id, sections, button, _body, _self, _relativeURL, _parseMD, _ID, _isDocs }) => {
 	const myself = _self.replace('/', '-').replace('.', '-');
 	const newID = _isDocs ? `/1/2/3/${ _ID }` : _ID;
 
@@ -36,6 +36,9 @@ const Expand = ({ headline, id, sections, _body, _self, _relativeURL, _parseMD, 
 			}
 			{
 				_isDocs && <script type="text/javascript" src={ `../../../assets/js/script.min.js` }/>
+			}
+			{
+				button && <a className="btn expand-button" href={ button.url }>{ button.title }</a>
 			}
 		</section>
 	);
@@ -74,6 +77,16 @@ Expand.propTypes = {
 			img: PropTypes.string.isRequired,
 		})
 	).isRequired,
+
+	/**
+	 * button:
+	 *   title: Podcasts
+	 *   url: /podcasts
+	 */
+	button: PropTypes.shape({
+		title: PropTypes.string.isRequired,
+		url: PropTypes.string.isRequired,
+	}),
 
 	/**
 	 * _body: (text)(1)

@@ -23,6 +23,9 @@ sections:
       garantiert eine so aufmerksamkeitsstarke Einbindung wie die Sonderwerbeform. Gemeinsam mit ausgesuchten Radiosendern entwickeln wir die optimale Strategie für
       Ihre Kampagne – on air und online.
     img: sonderwerbeform.jpg
+button:
+  title: Podcasts
+  url: /podcasts
 ---
 
 Gehen Sie mit uns "on air"! Schnell und erfolgsorientiert bieten wir individuelle Kommunikationslösungen im Hörfunk. Von der Redaktion, Interviewaufzeichnung
