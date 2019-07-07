@@ -24,8 +24,8 @@ sections:
       Ihre Kampagne – on air und online.
     img: sonderwerbeform.jpg
 button:
-  title: Podcasts
-  url: /podcasts
+  title: Podcast
+  url: /podcast
 ---
 
 Gehen Sie mit uns "on air"! Schnell und erfolgsorientiert bieten wir individuelle Kommunikationslösungen im Hörfunk. Von der Redaktion, Interviewaufzeichnung
