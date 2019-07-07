@@ -1,7 +1,8 @@
 ---
-layout: homepage/location
+layout: content
+color: gelb
 headline: Werben im Podcast
-id: referenzen
+id: werben-im-podcast
 ---
 
-Cuttlebelles markdown is a text-to-HTML conversion tool for content authors. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid HTML.
+The year 1866 was signalised by a remarkable incident, a mysterious and puzzling phenomenon, which doubtless no one has yet forgotten. Not to mention rumours which agitated the maritime population and excited the public mind, even in the interior of continents, seafaring men were particularly excited. Merchants, common sailors, captains of vessels, skippers, both of Europe and America, naval officers of all countries, and the Governments of several States on the two continents, were deeply interested in the matter.

@@ -6,3 +6,6 @@ header:
 
 body:
   - body.md
+
+footer:
+  - /_shared/footer.md

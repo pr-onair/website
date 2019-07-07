@@ -6,11 +6,11 @@ import React from 'react';
 /**
  * The homepage header component
  */
-const HomepageHeader = ({ headline, nav, _relativeURL, _ID, _pages, _isDocs }) => {
+const HomepageHeader = ({ headline, color, _relativeURL, _ID, _pages, _isDocs }) => {
 	const newID = _isDocs ? `/1/2/3/${ _ID }` : _ID;
 
 	return (
-		<section className="header section">
+		<section className={`header section section-${ color }`}>
 			{
 				_isDocs && <link href="https://fonts.googleapis.com/css?family=Quicksand:700" rel="stylesheet"/>
 			}
@@ -30,26 +30,6 @@ const HomepageHeader = ({ headline, nav, _relativeURL, _ID, _pages, _isDocs }) =
 					<use xlinkHref={ SVGSprite( `radio`, _relativeURL, newID ) }/>
 				</svg>
 			</div>
-			<nav className="header-side js-scrollspy-wrapper">
-				<ul className="list">
-					{
-						nav.map( ( page, i ) =>
-							<li key={ i }>
-								{
-									page.name
-										? <a className="js-scroll js-scrollspy" href={`#${ page.id }`}>{ page.name }</a>
-										: <a href={`${ page.facebook }`} target="_blank" rel="noopener noreferrer">
-												<svg role="img">
-													<title>Facebook PR On Air</title>
-													<use xlinkHref={ SVGSprite( `facebook`, _relativeURL, newID ) }/>
-												</svg>
-											</a>
-								}
-							</li>
-						)
-					}
-				</ul>
-			</nav>
 			{
 				_isDocs && <script type="text/javascript" src={ `../../../assets/js/script.min.js` }/>
 			}
@@ -64,21 +44,9 @@ HomepageHeader.propTypes = {
 	headline: PropTypes.string.isRequired,
 
 	/**
-	 * nav:
-	 *   - id: hallo
-	 *     name: Hallo
-	 *   - id: uber-uns
-	 *     name: Über uns
-	 *   - id: dienstleistungen
-	 *     name: Dienstleistungen
+	 * color: mint
 	 */
-	nav: PropTypes.arrayOf(
-		PropTypes.shape({
-			id: PropTypes.string,
-			name: PropTypes.string,
-			facebook: PropTypes.string,
-		})
-	).isRequired,
+	color: PropTypes.oneOf([ 'braun', 'gelb', 'orange', 'weiss', 'mint' ]),
 };
 
 HomepageHeader.defaultProps = {};

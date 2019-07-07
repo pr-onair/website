@@ -1,6 +1,8 @@
 ---
-layout: homepage/location
+layout: content
+color: mint
 headline: Corporate Podcast
+id: corporate-podcast
 ---
 
 ![Corporate Podcast](/assets/img/hoerfunk-pr.jpg)

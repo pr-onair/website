@@ -13,7 +13,7 @@ const Partial = ({ top, bottom, _body, _self }) => (
 		<section>
 			{ top }
 		</section>
-		<section className="section-referenzen">
+		<section className="section-orange">
 			{ bottom }
 		</section>
 	</Fragment>

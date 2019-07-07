@@ -1,7 +1,8 @@
 ---
-layout: homepage/location
+layout: content
+color: braun
 headline: Event Podcast
-id: uber-uns
+id: event-podcast
 ---
 
 The year 1866 was signalised by a remarkable incident, a mysterious and puzzling phenomenon, which doubtless no one has yet forgotten. Not to mention rumours

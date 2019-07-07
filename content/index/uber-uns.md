@@ -1,6 +1,7 @@
 ---
 layout: homepage/expand
 id: uber-uns
+color: braun
 headline: Über uns
 sections:
   - title: Hörfunk-PR

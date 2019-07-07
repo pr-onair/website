@@ -4,6 +4,7 @@ header:
   - /_shared/header.md
 
 body:
+  - nav.md
   - hallo.md
   - uber-uns.md
   - kompetenzen.md
@@ -12,7 +13,6 @@ body:
 
 footer:
   - /_shared/footer.md
-
 
 description: |
   PR ON AIR bietet Lösungen im Bereich der Hörfunkkommunikation Radiothemendienst. Mit klassischen Hörfunk-PR Beiträgen und Interviews bzw. O-Ton-Paketen, mit moderativen
