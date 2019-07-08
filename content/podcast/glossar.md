@@ -6,5 +6,5 @@ headline: PODCAST-GLOSSAR
 sections:
  button:
   title: GLOSSAR
-  url: /glossar
+  url: /podcast-glossar
 ---
