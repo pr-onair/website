@@ -4,7 +4,7 @@ id: werben-im-podcast
 color: gelb
 headline: WERBEN IM PODCAST
 sections:
-  - title: SPONORING
+  - title: SPONSORING
     content: |
       ## SPONSORING
       Präsentieren Sie einen Podcast Ihrer Wahl mit kleinen oder großen Sponsoring-Paketen. Wichtig ist, dass Thema und Zielgruppe zur Dienstleistung oder zum Produkt des Kunden passen, um eine hohe Werbeakzeptanz zu gewährleisten.
