@@ -16,7 +16,7 @@ sections:
       ## MITARBEITER-PODCAST
       Wer neue Mitarbeiter sucht oder seinen Beschäftigten fachliche Inhalte vermitteln möchte, nutzt Podcasts für die Recruiting-Kampagne, als Lehrplattform
       oder Unternehmensradio. Auch hier gilt: Einmal ist keinmal! Nur wer regelmäßig von sich hören lässt, kommuniziert erfolgreich.
-    img: mitarbeiter.jpg
+    img: mitarbeiter.jpg?
   - title: EVENT-PODCAST
     content: |
       ## EVENT-PODCAST
