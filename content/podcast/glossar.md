@@ -7,5 +7,5 @@ sections:
   - title: CORPORATE PODCAST
     content: |
       ## PODCAST-GLOSSAR
-    img: hoerfunk-pr.jpg
+    img: glossar.jpg
 ---
