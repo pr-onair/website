@@ -1,9 +1,9 @@
 ---
 layout: nav
 nav:
-  - id: audio-content
+  - id: audio-on-demand
     name: AUDIO ON DEMAND
-  - id: lust-auf-was-eigenes
+  - id: podcast-formate
     name: PODCAST-FORMATE
   - id: werben-im-podcast
     name: WERBEN IM PODCAST
