@@ -8,7 +8,7 @@ sections:
     content: |
       ## NATIVE ADVERTISING
       Absolut authentisch und nah dran am Hörer: Wenn der Podcast-Host die Werbebotschaft individuell und persönlich einspricht, kann die Werbung schon mal etwas länger dauern. Im Gegensatz zum Spot werden lediglich die Inhalte und Nennungen abgestimmt – abgelesene Texte sind bei dieser Form des Werbens tabu.
-    img: hoerfunk-pr.jpg
+    img: native-ad.jpg
   - title: SPONSORING
     content: |
       ## SPONSORING
