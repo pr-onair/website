@@ -13,12 +13,12 @@ sections:
     content: |
       ## SPONSORING
       Präsentieren Sie einen Podcast Ihrer Wahl mit kleinen oder großen Sponsoring-Paketen. Wichtig ist, dass Thema und Zielgruppe zur Dienstleistung oder zum Produkt des Kunden passen, um eine hohe Werbeakzeptanz zu gewährleisten. 
-    img: radiomaterndienst.jpg
+    img: sponsor.jpg
   - title: SPOT
     content: |
       ## SPOT
       Vergleichbar mit klassischer Radiowerbung wird ein vorproduzierter Spot in den Podcast eingebunden. Er ist zu Beginn, in der Mitte oder am Ende des Podcasts zu hören.  
-    img: sonderwerbeform.jpg
+    img: spot.jpg
 button:
 ---
 
