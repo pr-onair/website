@@ -1,7 +1,7 @@
 ---
 layout: content
 color: mint
-headline: AUDIO CONTENT ON  DEMAND
+headline: Audio Content on demand
 id: corporate-podcast
 ---
 
