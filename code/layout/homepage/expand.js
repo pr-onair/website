@@ -5,12 +5,12 @@ import PropTypes from 'prop-types';
 /**
  * The Section component
  */
-const Expand = ({ headline, id, sections, _body, _self, _relativeURL, _parseMD, _ID, _isDocs }) => {
+const Expand = ({ headline, color, id, sections, button, _body, _self, _relativeURL, _parseMD, _ID, _isDocs }) => {
 	const myself = _self.replace('/', '-').replace('.', '-');
 	const newID = _isDocs ? `/1/2/3/${ _ID }` : _ID;
 
 	return (
-		<section className={`section section-${ id }`}>
+		<section className={`section section-${ color }`}>
 			<h2 className="section-headline js-scrollspytarget" id={ id } tabIndex="0">{ headline }</h2>
 			<div className="section-content">
 				{ _body }
@@ -37,6 +37,9 @@ const Expand = ({ headline, id, sections, _body, _self, _relativeURL, _parseMD, 
 			{
 				_isDocs && <script type="text/javascript" src={ `../../../assets/js/script.min.js` }/>
 			}
+			{
+				button && <a className="btn btn--lg expand-button" href={ button.url }>{ button.title }</a>
+			}
 		</section>
 	);
 };
@@ -46,6 +49,11 @@ Expand.propTypes = {
 	 * headline: Section
 	 */
 	headline: PropTypes.string.isRequired,
+
+	/**
+	 * color: braun
+	 */
+	color: PropTypes.oneOf([ 'braun', 'gelb', 'orange', 'weiss', 'mint' ]),
 
 	/**
 	 * id: uber-uns
@@ -74,6 +82,16 @@ Expand.propTypes = {
 			img: PropTypes.string.isRequired,
 		})
 	).isRequired,
+
+	/**
+	 * button:
+	 *   title: Podcasts
+	 *   url: /podcasts
+	 */
+	button: PropTypes.shape({
+		title: PropTypes.string.isRequired,
+		url: PropTypes.string.isRequired,
+	}),
 
 	/**
 	 * _body: (text)(1)

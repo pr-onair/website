@@ -1,6 +1,7 @@
 ---
 layout: homepage/references
 id: referenzen
+color: orange
 headline: Referenzen
 refs:
   - name: Ubisoft

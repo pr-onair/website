@@ -97,22 +97,26 @@ a:focus {
 .section {
 	padding: 4rem 1rem;
 }
-.section-uber-uns {
+.section-mint {
+	background: var(--bg1);
+	color: var(--fg1);
+}
+.section-braun {
 	background: var(--bg2);
 	color: var(--fg2);
 }
-.section-uber-uns a {
+.section-braun a {
 	color: var(--fg2);
 }
-.section-kompetenzen {
+.section-gelb {
 	background: var(--bg3);
 	color: var(--fg3);
 }
-.section-referenzen {
+.section-orange {
 	background: var(--bg4);
 	color: var(--fg4);
 }
-.section-kontakt {
+.section-weiss {
 	background: var(--bg5);
 	color: var(--fg5);
 }
@@ -120,6 +124,9 @@ a:focus {
 	max-width: 42em;
 	margin: 0 auto;
 	font-size: 1.2rem;
+}
+.section-content img {
+	max-width: 500px;
 }
 .section-headline {
 	text-transform: uppercase;
@@ -198,6 +205,9 @@ a.btn {
 	opacity: 0.5;
 	cursor: not-allowed;
 	text-decoration: none;
+}
+.btn--lg {
+	min-width: 14.3rem;
 }
 
 /* ====================== PARTIAL ====================== */
@@ -336,7 +346,7 @@ footer:not(:empty) {
 	display: none;
 	max-width: 100%;
 }
-.section-kompetenzen .expand-button {
+.section-gelb .expand-button {
 	background: var(--bg2);
 	color: var(--fg2);
 }

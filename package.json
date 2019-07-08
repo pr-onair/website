@@ -7,7 +7,7 @@
 		"build:site": "cuttlebelle",
 		"build:pages": "npm run build:site",
 		"build:favicons": "mv docs/assets/favicons/* docs/ && rm -r docs/assets/favicons",
-		"build": "npm run build:css && npm run build:pages && npm run build:favicons",
+		"build": "npm run build:css && npm run build:pages && npm run build:favicons && npm run docs",
 		"watch:sitecss": "onchange 'code/css/site.css' -- npm run build:sitecss",
 		"watch:headcss": "onchange 'code/css/head.css' -- npm run build:headcss",
 		"watch:site": "onchange 'code/**' 'content/**' -- npm run build:pages",

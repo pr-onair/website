@@ -8,11 +8,11 @@ const ConditionalWrap = ({ condition, wrap, children }) => condition ? wrap( chi
 /**
  * The Reference component
  */
-const Reference = ({ headline, id, refs, _body, _relativeURL, _ID, _isDocs }) => {
+const Reference = ({ headline, id, color, refs, _body, _relativeURL, _ID, _isDocs }) => {
 	const newID = _isDocs ? `/1/2/3/${ _ID }` : _ID;
 
 	return (
-		<section className={`section section-${ id }`}>
+		<section className={`section section-referenzen section-${ color }`}>
 			<h2 className="section-headline js-scrollspytarget" id={ id } tabIndex="0">{ headline }</h2>
 			<ul className="references list">
 				{
@@ -51,6 +51,11 @@ Reference.propTypes = {
 	 * id: referenzen
 	 */
 	id: PropTypes.string,
+
+	/**
+	 * color: braun
+	 */
+	color: PropTypes.oneOf([ 'braun', 'gelb', 'orange', 'weiss', 'mint' ]),
 
 	/**
 	 * refs:

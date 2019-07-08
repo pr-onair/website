@@ -1,6 +1,7 @@
 ---
 layout: homepage/expand
 id: uber-uns
+color: braun
 headline: Über uns
 sections:
   - title: Hörfunk-PR
@@ -23,6 +24,9 @@ sections:
       garantiert eine so aufmerksamkeitsstarke Einbindung wie die Sonderwerbeform. Gemeinsam mit ausgesuchten Radiosendern entwickeln wir die optimale Strategie für
       Ihre Kampagne – on air und online.
     img: sonderwerbeform.jpg
+button:
+  title: Podcast
+  url: /podcast
 ---
 
 Gehen Sie mit uns "on air"! Schnell und erfolgsorientiert bieten wir individuelle Kommunikationslösungen im Hörfunk. Von der Redaktion, Interviewaufzeichnung

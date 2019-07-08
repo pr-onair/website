@@ -1,6 +1,7 @@
 ---
 layout: homepage/expand
 id: kompetenzen
+color: gelb
 headline: Kompetenzen
 sections:
   - title: Platzierung
