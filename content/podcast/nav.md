@@ -1,12 +1,14 @@
 ---
 layout: nav
 nav:
-  - id: corporate-podcast
-    name: Corporate Podcast
-  - id: event-podcast
-    name: Event Podcast
+  - id: audio-content
+    name: AUDIO CONTENT
+  - id: lust-auf-was-eigenes
+    name: LUST AUF...
   - id: werben-im-podcast
-    name: Werben im Podcast
+    name: WERBEN IM PODCAST
+  - glossar
+    name: GLOSSAR
   - id: kontakt
-    name: Kontakt
+    name: KONTAKT
 ---
