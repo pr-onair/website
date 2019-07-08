@@ -5,6 +5,6 @@ color: orange
 headline: PODCAST-GLOSSAR
 sections:
  button:
-  title: Podcast
+  title: GLOSSAR
   url: /podcast
 ---
