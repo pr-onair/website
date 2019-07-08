@@ -2,13 +2,11 @@
 layout: nav
 nav:
   - id: audio-content
-    name: AUDIO CONTENT
+    name: AUDIO ON DEMAND
   - id: lust-auf-was-eigenes
-    name: LUST AUF...
+    name: PODCAST-FORMATE
   - id: werben-im-podcast
     name: WERBEN IM PODCAST
-  - glossar
-    name: GLOSSAR
   - id: kontakt
     name: KONTAKT
 ---
