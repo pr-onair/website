@@ -7,7 +7,6 @@ sections:
   - title: GLOSSAR
     content: |
       ## GLOSSAR
-      url: /podcast-glossar
-     img: glossar.jpg
+    img: glossar.jpg
 button:
 ---
