@@ -44,8 +44,8 @@ refs:
     svg: bristol-myers-squibb
   - name: MSL Group
     svg: mslgroup
-  - name: Zucker
-    img: zucker.png
+  - name: Amazon
+    img: amazon.png
   - name: fischerAppelt
     img: fischerappelt.png
 ---
