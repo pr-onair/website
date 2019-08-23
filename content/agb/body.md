@@ -45,11 +45,8 @@ textalign: left
 a. Muss der Auftraggeber innerhalb von 24 Stunden vor dem Termin zur Aufzeichnung ein Interview verschieben oder absagen, wird ein Ausfallhonorar in Höhe von 200,- Euro in Rechnung gestellt.
 b. Bei Stornierungen bestätigter Aufträge wird eine Stornogebühr von 50% der Auftragssumme fällig. Sind Teilleistungen erbracht worden, werden diese zu 100% in Rechnung gestellt. PR ON AIR behält sich vor, bei vollständiger oder teilweiser Stornierung von rabattierten Paketen die dem Kunden gewährten Rabatte nachzuberechnen.
 3. Für Podcastproduktionen gelten folgende Regelungen: 
-
 a. Bei Stornierungen vor Erstellung des Storyboards fallen keine Stornogebühren an.
-
 b. Bei Stornierungen bestätigter Aufträge wird nach der Erstellung des Storyboards eine Stornogebühr von 50% der Auftragssumme fällig. Sind Teilleistungen erbracht worden, werden diese zu 100% in Rechnung gestellt. PR ON AIR behält sich vor, bei vollständiger oder teilweiser Stornierung von rabattierten Paketen die dem Kunden gewährten Rabatte nachzuberechnen.
-
 c. Bei Verschiebungen in einem Zeitraum von 5 bis zu 10 Tagen vor einem geplanten Produktionstermin werden 50% der Honorare des Teams, externer Dienstleister sowie etwaige Gagen in Rechnung gestellt, bis zu vier Tage vor dem Produktionstermin 100% der Honorare und Gagen.
 
 # § 9 Vertraulichkeit
