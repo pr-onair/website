@@ -12,4 +12,5 @@ address2: 04229 Leipzig
 ---
 
 [Impressum](/impressum)
+
 [AGB](/agb)
