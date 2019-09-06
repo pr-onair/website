@@ -4,7 +4,33 @@ textalign: middle
 
 [← Startseite](/)
 
-# Jobs bei PR ON AIR
+## Volontair (m/w/d) Audio-PR
+
+# Aufgaben
+
+- Ansprechpartner für Journalisten; Aufbau und Pflege von Medienkontakten
+- Platzierung unserer Hörfunkformate bei Radiosendern in Deutschland, Österreich und in der Schweiz, Gewinnspielabwicklungen
+- Social Media-Redaktion, Newsletter-Betreuung
+- Projektkontrollen und –dokumentationen
+- Unterstützung der Kundenberatung und Redaktion sowie Mitarbeit bei der Projekt-Konzeption und -Umsetzung (je nach Qualifikation und Interessenschwerpunkt)
+
+# Unsere Erwartungen
+
+- Ausgezeichnetes Sprachgefühl und Spaß am Texten
+- Kommunikative Persönlichkeit mit überdurchschnittlicher Kontaktfreudigkeit, idealerweise mit Erfahrung im telefonischen Vertrieb
+- Strukturierte, selbstständige und lösungsorientierte Arbeitsweise
+- Sicherer Umgang mit gängigen Office-Tools und Social Media-Plattformen
+- Grundlegendes Interesse am Hörfunk und Begeisterung für Audio on demand
+- Hohe Eigenmotivation, Umsetzungsstärke und Lust, etwas zu bewegen
+- idealerweise Erfahrungen als Redakteur, mit Interviewführung und Schnittprogrammen
+
+# Wir bieten
+
+- eine eigenverantwortliche Position in einer dynamischen, jungen Agentur mit flachen Hierarchien und kurzen Entscheidungswegen
+- faire Volontariats-Vergütung und eine gute Work-Life-Balance
+- die Möglichkeit einer langfristigen Zusammenarbeit mit Potenzial zum kreativen Austoben, Aufstiegschancen und einer Weiterbeschäftigung nach Abschluss des Volontariats
+
+Wir freuen uns auf Bewerbungen per E-Mail an Britta Borgsen: borgsen@pr-on-air.de
 
 Wir freuen uns sehr über Ihr Interesse an unserem Unternehmen. Datenschutz hat einen besonders hohen Stellenwert für die Geschäftsleitung der PR ON AIR UG (haftungsbeschränkt). Eine Nutzung der Internetseiten der PR ON AIR UG (haftungsbeschränkt) ist grundsätzlich ohne jede Angabe personenbezogener Daten möglich. Sofern eine betroffene Person besondere Services unseres Unternehmens über unsere Internetseite in Anspruch nehmen möchte, könnte jedoch eine Verarbeitung personenbezogener Daten erforderlich werden. Ist die Verarbeitung personenbezogener Daten erforderlich und besteht für eine solche Verarbeitung keine gesetzliche Grundlage, holen wir generell eine Einwilligung der betroffenen Person ein.
 
