@@ -1,12 +1,14 @@
 ---
 layout: header
 nav:
-  - url: /impressum/
-    name: Impressum
-  - url: /datenschutz/
-    name: Datenschutz
-  - url: /koepfe/
-    name: Köpfe
   - url: /podcast/
     name: Podcast
+  - url: /koepfe/
+    name: Köpfe
+  - url: /datenschutz/
+    name: Datenschutz
+  - url: /impressum/
+    name: Impressum
+  - url: /jobs
+    name: Jobs
 ---
