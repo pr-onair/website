@@ -4,7 +4,7 @@ textalign: left
 
 [← Startseite](/)
 
-**PR ON AIR** ist spezialisiert auf die Produktion und Vermarktung von Hörfunkformaten und Podcasts. Zu unseren Kunden zählen PR-Agenturen, Unternehmen und Non-Profit-Organisationen. Wir möchten unser Kernteam erweitern und suchen zum nächstmöglichen Zeitpunkt (idealerweise zum 01.10.2019) für die Dauer von 24 Monaten einen
+Wir suchen zum nächstmöglichen Zeitpunkt (idealerweise zum 01.10.2019) für die Dauer von 24 Monaten einen
 
 ## Volontär (m/w/d) Audio-PR
 
@@ -32,6 +32,7 @@ textalign: left
 - faire Volontariats-Vergütung und eine gute Work-Life-Balance
 - die Möglichkeit einer langfristigen Zusammenarbeit mit Potenzial zum kreativen Austoben, Aufstiegschancen und einer Weiterbeschäftigung nach Abschluss des Volontariats
 
-Wir freuen uns auf aussagekräftige Bewerbungen per E-Mail an Britta Borgsen: **borgsen@pr-on-air.de**
+Wir freuen uns auf aussagekräftige Bewerbungen per E-Mail an Britta Borgsen: 
+**borgsen@pr-on-air.de**
 
 **Wenn Sie mit Ihrem Qualifikationsprofil zu PR ON AIR passen, prüfen wir Ihre Iniitiativbewerbung auch gerne hinsichtlich anderer aktueller oder zukünftiger Beschäftigungsmöglichkeiten.**
