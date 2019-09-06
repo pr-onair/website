@@ -1,5 +1,5 @@
 ---
-textalign: center
+textalign: left
 ---
 
 [← Startseite](/)
