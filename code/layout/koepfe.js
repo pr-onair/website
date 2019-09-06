@@ -14,7 +14,7 @@ const Partial = ({ top, bottom, _body, _self }) => (
 			{ top }
 		</section>
 		<section className="partial partial-top">
-			{ bottom }
+			{ _body }
 		</section>
 	</Fragment>
 );
