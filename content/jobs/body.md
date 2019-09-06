@@ -32,6 +32,6 @@ textalign: left
 - faire Volontariats-Vergütung und eine gute Work-Life-Balance
 - die Möglichkeit einer langfristigen Zusammenarbeit mit Potenzial zum kreativen Austoben, Aufstiegschancen und einer Weiterbeschäftigung nach Abschluss des Volontariats
 
-Wir freuen uns auf aussagekräftige Bewerbungen per E-Mail an Britta Borgsen: borgsen@pr-on-air.de
+Wir freuen uns auf aussagekräftige Bewerbungen per E-Mail an Britta Borgsen: **borgsen@pr-on-air.de**
 
 **Wenn Sie mit Ihrem Qualifikationsprofil zu PR ON AIR passen, prüfen wir Ihre Iniitiativbewerbung auch gerne hinsichtlich anderer aktueller oder zukünftiger Beschäftigungsmöglichkeiten.**
