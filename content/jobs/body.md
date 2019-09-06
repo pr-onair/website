@@ -4,11 +4,11 @@ textalign: left
 
 [← Startseite](/)
 
-PR ON AIR ist spezialisiert auf die Produktion und Vermarktung von Hörfunkformaten und Podcasts. Zu unseren Kunden zählen PR-Agenturen, Unternehmen und Non-Profit-Organisationen. Wir möchten unser Kernteam erweitern und suchen zum nächstmöglichen Zeitpunkt (idealerweise zum 01.10.2019) für die Dauer von 24 Monaten einen
+**PR ON AIR** ist spezialisiert auf die Produktion und Vermarktung von Hörfunkformaten und Podcasts. Zu unseren Kunden zählen PR-Agenturen, Unternehmen und Non-Profit-Organisationen. Wir möchten unser Kernteam erweitern und suchen zum nächstmöglichen Zeitpunkt (idealerweise zum 01.10.2019) für die Dauer von 24 Monaten einen
 
 ## Volontär (m/w/d) Audio-PR
 
-# Aufgaben
+**Aufgaben**
 
 - Ansprechpartner für Journalisten; Aufbau und Pflege von Medienkontakten
 - Platzierung unserer Hörfunkformate bei Radiosendern in Deutschland, Österreich und in der Schweiz, Gewinnspielabwicklungen
@@ -16,7 +16,7 @@ PR ON AIR ist spezialisiert auf die Produktion und Vermarktung von Hörfunkforma
 - Projektkontrollen und –dokumentationen
 - Unterstützung der Kundenberatung und Redaktion sowie Mitarbeit bei der Projekt-Konzeption und -Umsetzung (je nach Qualifikation und Interessenschwerpunkt)
 
-# Unsere Erwartungen
+**Unsere Erwartungen**
 
 - Ausgezeichnetes Sprachgefühl und Spaß am Texten
 - Kommunikative Persönlichkeit mit überdurchschnittlicher Kontaktfreudigkeit, idealerweise mit Erfahrung im telefonischen Vertrieb
@@ -26,7 +26,7 @@ PR ON AIR ist spezialisiert auf die Produktion und Vermarktung von Hörfunkforma
 - Hohe Eigenmotivation, Umsetzungsstärke und Lust, etwas zu bewegen
 - idealerweise Erfahrungen als Redakteur, mit Interviewführung und Schnittprogrammen
 
-# Wir bieten
+**Wir bieten**
 
 - eine eigenverantwortliche Position in einer dynamischen, jungen Agentur mit flachen Hierarchien und kurzen Entscheidungswegen
 - faire Volontariats-Vergütung und eine gute Work-Life-Balance
@@ -34,4 +34,4 @@ PR ON AIR ist spezialisiert auf die Produktion und Vermarktung von Hörfunkforma
 
 Wir freuen uns auf aussagekräftige Bewerbungen per E-Mail an Britta Borgsen: borgsen@pr-on-air.de
 
-Wenn Sie mit Ihrem Qualifikationsprofil zu PR ON AIR passen, prüfen wir Ihre Iniitiativbewerbung auch gerne hinsichtlich anderer aktueller oder zukünftiger Beschäftigungsmöglichkeiten.
+**Wenn Sie mit Ihrem Qualifikationsprofil zu PR ON AIR passen, prüfen wir Ihre Iniitiativbewerbung auch gerne hinsichtlich anderer aktueller oder zukünftiger Beschäftigungsmöglichkeiten.**
