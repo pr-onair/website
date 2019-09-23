@@ -1,4 +1,4 @@
-PR onAir [![Netlify Status](https://api.netlify.com/api/v1/badges/0cfcd3b9-05ff-443c-89d8-422a1f34211c/deploy-status)](https://app.netlify.com/sites/pronair/deploys) [![CircleCI](https://circleci.com/gh/pr-onair/website.svg?style=svg)](https://circleci.com/gh/pr-onair/website)
+PR onAir [![Netlify Status](https://api.netlify.com/api/v1/badges/42d8efe8-5bd3-4bf0-96c1-2652f8f85bd4/deploy-status)](https://app.netlify.com/sites/pronair/deploys) [![CircleCI](https://circleci.com/gh/pr-onair/website.svg?style=svg)](https://circleci.com/gh/pr-onair/website)
 ========
 
 ## Contents
