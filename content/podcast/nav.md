@@ -10,5 +10,5 @@ nav:
   - id: kontakt
     name: KONTAKT
   - id: glossar
-    name: GLOSSAR
+    name: PODCAST-GLOSSAR
 ---
