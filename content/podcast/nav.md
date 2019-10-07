@@ -9,4 +9,6 @@ nav:
     name: WERBEN IM PODCAST
   - id: kontakt
     name: KONTAKT
+  - id: glossar
+    name: GLOSSAR
 ---
