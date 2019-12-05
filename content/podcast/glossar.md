@@ -1,7 +1,7 @@
 ---
 layout: homepage/expand
 id: glossar
-color: weiß
+color: green
 headline: PODCAST-GLOSSAR
 ---
 
