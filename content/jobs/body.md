@@ -4,7 +4,7 @@ textalign: left
 
 [← Startseite](/)
 
-Wir suchen zum nächstmöglichen Zeitpunkt (idealerweise zum 01.10.2019) für die Dauer von 24 Monaten einen
+Wir suchen zum nächstmöglichen Zeitpunkt (idealerweise ab Januar/Februar 2020) für die Dauer von 24 Monaten einen
 
 ## Volontär (m/w/d) Audio-PR
 
@@ -15,6 +15,7 @@ Wir suchen zum nächstmöglichen Zeitpunkt (idealerweise zum 01.10.2019) für di
 - Social Media-Redaktion, Newsletter-Betreuung
 - Projektkontrollen und –dokumentationen
 - Unterstützung der Kundenberatung und Redaktion sowie Mitarbeit bei der Projekt-Konzeption und -Umsetzung (je nach Qualifikation und Interessenschwerpunkt)
+- Mitarbeit bei der Entwicklung und Umsetzung von Podcast-Projekten
 
 **Unsere Erwartungen**
 
