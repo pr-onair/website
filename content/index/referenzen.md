@@ -48,4 +48,6 @@ refs:
     img: amazon.png
   - name: fischerAppelt
     img: fischerappelt.png
+  - name: Samsung
+    img: samsung.png
 ---
