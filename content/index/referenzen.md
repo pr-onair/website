@@ -48,4 +48,12 @@ refs:
     img: amazon.png
   - name: fischerAppelt
     img: fischerappelt.png
+  - name: Deutsche Bahn
+    img: db.png
+  - name: De Longhi
+    img: delonghi.png
+  - name: Dorling Kindersley
+    img: dk-verlag.png
+  - name: Samsung
+    img: samsung.png
 ---
