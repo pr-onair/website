@@ -50,10 +50,10 @@ refs:
     img: fischerappelt.png
   - name: Deutsche Bahn
     img: db.png
-   - name: De Longhi
+  - name: De Longhi
     img: delonghi.png
-   - name: Dorling Kindersley
+  - name: Dorling Kindersley
     img: dk-verlag.png
-   - name: Samsung
+  - name: Samsung
     img: samsung.png
 ---
