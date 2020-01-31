@@ -29,5 +29,5 @@ button:
   url: /podcast
 ---
 
-Gehen Sie mit uns "on air"! Schnell und erfolgsorientiert bieten wir individuelle Kommunikationslösungen im Hörfunk. Von der Redaktion, Interviewaufzeichnung
-und Produktion über die Platzierung bis hin zur detaillierten Dokumentation liefern wir Full Service aus einer Hand.
+Gehen Sie mit uns "on air"! Schnell und erfolgsorientiert bieten wir individuelle Kommunikationslösungen im Hörfunk und für Podcasting. Von der Redaktion, Aufnahme
+und Produktion über Distribution und Platzierung bis hin zur detaillierten Dokumentation liefern wir Full Service aus einer Hand.
