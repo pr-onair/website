@@ -37,7 +37,7 @@ textalign: left
 6. Bei Podcastproduktionen erstellt PR ON AIR nach Freigabe des Storyboards eine vorläufige Rohfassung der Audiodatei. Der Auftraggeber verpflichtet sich, die Rohfassung innerhalb von 5 Werktagen nach Übersendung durch PR ON AIR zu prüfen. Änderungswünsche zum Schnitt des Podcasts können im Rahmen von maximal einer Korrekturschleife geltend gemacht werden.
 
 # § 7 Vergütung/Zahlungsbedingungen 
-1. Soweit nicht anders vereinbart, gelten für Hörfunkformate die in der aktuellen Preisliste veröffentlichten Preise. Die Vergütung ist innerhalb von 10 Tagen nach Rechnungsstellung fällig. Der laut Auftragsbestätigung vereinbarte Zahlungsbetrag wird bei Hörfunkproduktionen mit Abschluss der Produktion und Übersendung der Dateien vollständig in Rechnung gestellt. Es erfolgt keine Abrechnung von Teilbeträgen. Enthält der Leistungsumfang einen Podcast oder eine Sonderwerbeform (dazu zählen jegliche Formen der Einbuchung, insbesondere Infomercial-Platzierungen) ist der Rechnungsbetrag sofort nach der Auftragserteilung zahlbar. Die Rechnungserstellung erfolgt unmittelbar nach der Auftragserteilung an die vom Auftraggeber hinterlegte E-Mail-Adresse.
+1. Soweit nicht anders vereinbart, gelten für Hörfunkformate die in der aktuellen Preisliste veröffentlichten Preise. Die Vergütung ist innerhalb von 10 Tagen nach Rechnungsstellung fällig. Es erfolgt keine Abrechnung von Teilbeträgen.
 2. Es gelten die gesetzlichen Regeln betreffend die Folgen des Zahlungsverzuges.
 
 # § 8 Stornierung und Verzögerungen 
