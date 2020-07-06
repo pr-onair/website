@@ -7,7 +7,7 @@ textalign: left
 # ALLGEMEINE GESCHÄFTSBEDINGUNGEN (AGB)
 
 # § 1 Anwendbarkeit
-1. Diese Geschäftsbedingungen regeln die vertraglichen Beziehungen zwischen der PR ON AIR UG, Holbeinstraße 29, 04229 Leipzig (im Folgenden „PR ON AIR“ genannt) und Auftraggebern (nachstehend „Auftraggeber“) von PR ON AIR. 
+1. Diese Geschäftsbedingungen regeln die vertraglichen Beziehungen zwischen der PR ON AIR UG, Holbeinstraße 29, 04229 Leipzig (im Folgenden „PR ON AIR“ genannt) und Auftraggebern (nachstehend „Auftraggeber“) von PR ON AIR.  
 2. Diese AGB gelten auch für zukünftige Geschäfte, selbst wenn nicht ausdrücklich darauf Bezug genommen worden ist, sofern sie dem Vertragspartner im Zusammenhang mit einem bereits getätigten Geschäft zugegangen sind, bzw. darauf Bezug genommen wurde.
 3. Änderungen und Erweiterungen dieser AGB werden nur dann gültig, wenn diese im Einvernehmen zwischen dem Auftraggeber und PR ON AIR in schriftlicher Form erfolgen.
 4. Diese AGB gelten ausschließlich. Entgegenstehende oder von diesen AGB abweichende Anforderungen des Auftraggebers werden nicht anerkannt, sofern ihrer Geltung nicht ausdrücklich zugestimmt wurde. Diese AGB gelten auch dann, wenn PR ON AIR in Kenntnis entgegenstehender oder von diesen Geschäftsbedingungen abweichender Bedingungen des Auftraggebers die vereinbarten Leistungen vorbehaltlos ausführt.
@@ -29,7 +29,7 @@ textalign: left
 1. Der Leistungsumfang von PR ON AIR beschränkt sich auf den Umfang, der in der Auftragsbestätigung dargelegt ist. Erweiterungen bedürfen einer ausdrücklichen schriftlichen Vereinbarung. Verbindliche Termine zur Leistungserbringung werden auf Seiten von PR ON AIR  durch Auftragsbestätigung zugesagt. Der Auftraggeber muss die Leistungen von PR ON AIR nach Ablieferung überprüfen. Mängel sind sofort, spätestens innerhalb von drei Werktagen nach Ablieferung, konkret gegenüber PR ON AIR  anzuzeigen. Spricht der Auftraggeber keine Mängelrüge innerhalb dieser Frist aus, gilt die Leistung als abgenommen. 
 
 # § 6 Umsetzung
-1. Aufträge sind im Zweifel innerhalb von drei Monaten nach Vertragsschluss abzuwickeln.
+1. Aufträge sind im Zweifel innerhalb von drei Monaten nach Vertragsabschluss abzuwickeln.
 2. Der Auftraggeber unterstützt PR ON AIR bei der Erfüllung der vertraglich geschuldeten Leistungen. Dazu gehört insbesondere die rechtzeitige Bereitstellung von Informationen, Briefing-Material, sowie die Nennung eventueller Interviewpartner und die Vereinbarung von Gesprächs- oder Interviewterminen. Eventuell vereinbarte Ausführungsfristen sind hinfällig, wenn der Auftraggeber diese Informationen und Unterlagen nicht rechtzeitig übermittelt hat.
 3. PR ON AIR entwickelt auf Basis der Vorgespräche sowie des Briefings ein Manuskript/Storyboard. Bei Hörfunkproduktionen umfasst dieses einen An- und Abmoderationsvorschlag sowie die Entwürfe des Fragenkatalogs und der Beiträge. Storyboards für Podcastproduktionen definieren den Gesprächsinhalt, den Moderator und die Gäste („Protagonisten“). Das Manuskript wird dem Auftraggeber vor Beginn der Produktion zur Prüfung vorgelegt.
 4. Der Auftraggeber kann Änderungswünsche geltend machen, indem er diese telefonisch oder schriftlich mitteilt. PR ON AIR nimmt die gewünschten Korrekturen in angemessener Frist vor und legt diese dem Auftraggeber erneut zur Prüfung vor. Eine solche Korrekturschleife kann maximal einmal erfolgen. Weitergehende Änderungswünsche können nur durch Anpassung des zugrundeliegenden Vertrages geltend gemacht werden.
@@ -38,7 +38,10 @@ textalign: left
 
 # § 7 Vergütung/Zahlungsbedingungen 
 1. Soweit nicht anders vereinbart, gelten für Hörfunkformate die in der aktuellen Preisliste veröffentlichten Preise. Die Vergütung ist innerhalb von 10 Tagen nach Rechnungsstellung fällig. Es erfolgt keine Abrechnung von Teilbeträgen.
-2. Es gelten die gesetzlichen Regeln betreffend die Folgen des Zahlungsverzuges.
+2. Enthält der Leistungsumfang eine Sonderwerbeform (dazu zählen jegliche Formen der Einbuchung, insbesondere Infomercial-Platzierungen) ist der Rechnungsbetrag sofort nach der Auftragserteilung zahlbar.
+3. Bei einer Podcast-Produktion ist das Honorar in Höhe von 50% bei Auftragserteilung zu zahlen. Die Restsumme zzgl. Reise- und Übernachtungskosten ist nach Abnahme der jeweils letzten beauftragten Podcastfolge zu begleichen.
+4. Die Rechnungsstellung erfolgt an die vom Auftraggeber hinterlegte E-Mail-Adresse.
+5. Es gelten die gesetzlichen Regeln betreffend die Folgen des Zahlungsverzuges.
 
 # § 8 Stornierung und Verzögerungen 
 1. Auftragsstornierungen müssen schriftlich erfolgen. 
