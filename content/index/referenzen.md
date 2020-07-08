@@ -43,7 +43,7 @@ refs:
   - name: Bristol-Myers Squibb
     svg: bristol-myers-squibb
   - name: MSL
-    img: msl
+    img: msl.png
   - name: Amazon
     img: amazon.png
   - name: fischerAppelt
