@@ -42,8 +42,8 @@ refs:
     svg: facebook-bw
   - name: Bristol-Myers Squibb
     svg: bristol-myers-squibb
-  - name: MSL Group
-    svg: mslgroup
+  - name: MSL
+    img: msl
   - name: Amazon
     img: amazon.png
   - name: fischerAppelt
@@ -58,4 +58,10 @@ refs:
     img: samsung.png
   - name: Braufactum
     img: braufactum.png
+  - name: Ketchum
+    img: ketchum.png
+  - name: orca
+    img: orca.png
+  - name: S. Fischer Verlage
+    img: sfischer.png
 ---
