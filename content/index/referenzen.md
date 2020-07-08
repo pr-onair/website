@@ -82,10 +82,6 @@ refs:
     img: delius.png
   - name: Infectopharm
     img: infectopharm.png
-    - name: APCO Worldwide
+  - name: APCO Worldwide
     img: apco.png
-  - name: Faktenkontor
-    img: faktenkontor.png
-  - name: Koch Media
-    img: kochmedia.png
 ---
