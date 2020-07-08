@@ -81,5 +81,11 @@ refs:
   - name: Delius Klasing
     img: delius.png
   - name: Infectopharm
-    img: infectopharm.png  
+    img: infectopharm.png
+    - name: APCO Worldwide
+    img: apco.png
+  - name: Faktenkontor
+    img: faktenkontor.png
+  - name: Koch Media
+    img: kochmedia.png
 ---
