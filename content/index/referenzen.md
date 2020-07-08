@@ -72,4 +72,14 @@ refs:
     img: thw.png
   - name: Assemble Entertainment
     img: assemble.png
+  - name: ALK
+    img: alk.png
+  - name: Studienkreis
+    img: studienkreis.png
+  - name: Dorothea Küsters
+    img: dorothea.png
+  - name: Delius Klasing
+    img: delius.png
+  - name: Infectopharm
+    img: infectopharm.png  
 ---
