@@ -39,7 +39,7 @@ refs:
     svg: stage
   - name: Facebook
     # url: https://TODO.com
-    svg: facebook-bw
+    img: facebook_neu.png
   - name: Bristol-Myers Squibb
     svg: bristol-myers-squibb
   - name: MSL
