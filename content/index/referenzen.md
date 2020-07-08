@@ -42,8 +42,8 @@ refs:
     svg: facebook-bw
   - name: Bristol-Myers Squibb
     svg: bristol-myers-squibb
-  - name: MSL Group
-    svg: mslgroup
+  - name: MSL
+    img: msl.png
   - name: Amazon
     img: amazon.png
   - name: fischerAppelt
@@ -56,4 +56,36 @@ refs:
     img: dk-verlag.png
   - name: Samsung
     img: samsung.png
+  - name: Braufactum
+    img: braufactum.png
+  - name: Ketchum
+    img: ketchum.png
+  - name: orca
+    img: orca.png
+  - name: S. Fischer Verlage
+    img: sfischer.png
+  - name: Kaercher
+    img: kaercher.png
+  - name: Ancestry
+    img: ancestry.png
+  - name: THW
+    img: thw.png
+  - name: Assemble Entertainment
+    img: assemble.png
+  - name: ALK
+    img: alk.png
+  - name: Studienkreis
+    img: studienkreis.png
+  - name: Dorothea Küsters
+    img: dorothea.png
+  - name: Delius Klasing
+    img: delius.png
+  - name: Infectopharm
+    img: infectopharm.png
+  - name: APCO Worldwide
+    img: apco.png
+  - name: Koch Media
+    img: kochmedia.png
+  - name: Faktenkontor
+    img: faktenkontor.png
 ---
