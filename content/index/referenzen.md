@@ -84,4 +84,8 @@ refs:
     img: infectopharm.png
   - name: APCO Worldwide
     img: apco.png
+  - name: Koch Media
+    img: kochmedia.png
+  - name: Faktenkontor
+    img: faktenkontor.png
 ---
