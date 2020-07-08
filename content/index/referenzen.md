@@ -64,4 +64,12 @@ refs:
     img: orca.png
   - name: S. Fischer Verlage
     img: sfischer.png
+  - name: Kaercher
+    img: kaercher.png
+  - name: Ancestry
+    img: ancestry.png
+  - name: THW
+    img: thw.png
+  - name: Assemble Entertainment
+    img: assemble.png
 ---
