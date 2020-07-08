@@ -56,4 +56,6 @@ refs:
     img: dk-verlag.png
   - name: Samsung
     img: samsung.png
+  - name: Braufactum
+    img: braufactum.png
 ---
