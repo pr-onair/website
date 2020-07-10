@@ -29,12 +29,12 @@ textalign: left
 1. Der Leistungsumfang von PR ON AIR beschränkt sich auf den Umfang, der in der Auftragsbestätigung dargelegt ist. Erweiterungen bedürfen einer ausdrücklichen schriftlichen Vereinbarung. Verbindliche Termine zur Leistungserbringung werden auf Seiten von PR ON AIR  durch Auftragsbestätigung zugesagt. Der Auftraggeber muss die Leistungen von PR ON AIR nach Ablieferung überprüfen. Mängel sind sofort, spätestens innerhalb von drei Werktagen nach Ablieferung, konkret gegenüber PR ON AIR  anzuzeigen. Spricht der Auftraggeber keine Mängelrüge innerhalb dieser Frist aus, gilt die Leistung als abgenommen. 
 
 # § 6 Umsetzung
-1. Aufträge sind im Zweifel innerhalb von drei Monaten nach Vertragsabschluss abzuwickeln.
+1. Aufträge sind im Zweifel innerhalb von drei Monaten nach Vertragsabschluss abzuwickeln. Von dieser Regelung ausgenommen sind Podcast-Produktionen, für die ein individueller Abwicklungszeitrahmen vereinbart wird.
 2. Der Auftraggeber unterstützt PR ON AIR bei der Erfüllung der vertraglich geschuldeten Leistungen. Dazu gehört insbesondere die rechtzeitige Bereitstellung von Informationen, Briefing-Material, sowie die Nennung eventueller Interviewpartner und die Vereinbarung von Gesprächs- oder Interviewterminen. Eventuell vereinbarte Ausführungsfristen sind hinfällig, wenn der Auftraggeber diese Informationen und Unterlagen nicht rechtzeitig übermittelt hat.
-3. PR ON AIR entwickelt auf Basis der Vorgespräche sowie des Briefings ein Manuskript/Storyboard. Bei Hörfunkproduktionen umfasst dieses einen An- und Abmoderationsvorschlag sowie die Entwürfe des Fragenkatalogs und der Beiträge. Storyboards für Podcastproduktionen definieren den Gesprächsinhalt, den Moderator und die Gäste („Protagonisten“). Das Manuskript wird dem Auftraggeber vor Beginn der Produktion zur Prüfung vorgelegt.
+3. PR ON AIR entwickelt auf Basis der Vorgespräche sowie des Briefings ein Manuskript/Storyboard. Bei Hörfunk-Produktionen umfasst dieses einen An- und Abmoderationsvorschlag sowie die Entwürfe des Fragenkatalogs und der Beiträge. Storyboards für Podcast-Produktionen definieren den Gesprächsinhalt, den Moderator und die Gäste („Protagonisten“). Das Manuskript wird dem Auftraggeber vor Beginn der Produktion zur Prüfung vorgelegt.
 4. Der Auftraggeber kann Änderungswünsche geltend machen, indem er diese telefonisch oder schriftlich mitteilt. PR ON AIR nimmt die gewünschten Korrekturen in angemessener Frist vor und legt diese dem Auftraggeber erneut zur Prüfung vor. Eine solche Korrekturschleife kann maximal einmal erfolgen. Weitergehende Änderungswünsche können nur durch Anpassung des zugrundeliegenden Vertrages geltend gemacht werden.
 5. Final abgenommene und freigegebene Versionen gelten bei Hörfunkformaten als Produktionsfassung. Änderungen am fertig produzierten Material werden nur dann kostenfrei von PR ON AIR vorgenommen, wenn technische oder inhaltliche Mängel nachweisbar sind. 
-6. Bei Podcastproduktionen erstellt PR ON AIR nach Freigabe des Storyboards eine vorläufige Rohfassung der Audiodatei. Der Auftraggeber verpflichtet sich, die Rohfassung innerhalb von 5 Werktagen nach Übersendung durch PR ON AIR zu prüfen. Änderungswünsche zum Schnitt des Podcasts können im Rahmen von maximal einer Korrekturschleife geltend gemacht werden.
+6. Bei Podcast-Produktionen erstellt PR ON AIR nach Freigabe des Storyboards eine vorläufige Rohfassung der Audiodatei. Der Auftraggeber verpflichtet sich, die Rohfassung innerhalb von 5 Werktagen nach Übersendung durch PR ON AIR zu prüfen. Änderungswünsche zum Schnitt des Podcasts können im Rahmen von maximal einer Korrekturschleife geltend gemacht werden.
 
 # § 7 Vergütung/Zahlungsbedingungen 
 1. Soweit nicht anders vereinbart, gelten für Hörfunkformate die in der aktuellen Preisliste veröffentlichten Preise. Die Vergütung ist innerhalb von 10 Tagen nach Rechnungsstellung fällig. Es erfolgt keine Abrechnung von Teilbeträgen.
@@ -45,13 +45,13 @@ textalign: left
 
 # § 8 Stornierung und Verzögerungen 
 1. Auftragsstornierungen müssen schriftlich erfolgen. 
-2. Für Hörfunkproduktionen gelten folgende Regelungen:
+2. Für Hörfunk-Produktionen gelten folgende Regelungen:
    
    a. Muss der Auftraggeber innerhalb von 24 Stunden vor dem Termin zur Aufzeichnung ein Interview verschieben oder absagen, wird ein Ausfallhonorar in Höhe von 200,- Euro in Rechnung gestellt.
    
    b. Bei Stornierungen bestätigter Aufträge wird eine Stornogebühr von 50% der Auftragssumme fällig. Sind Teilleistungen erbracht worden, werden diese zu 100% in Rechnung gestellt. PR ON AIR behält sich vor, bei vollständiger oder teilweiser Stornierung von rabattierten Paketen die dem Kunden gewährten Rabatte nachzuberechnen.
    
-3. Für Podcastproduktionen gelten folgende Regelungen: 
+3. Für Podcast-Produktionen gelten folgende Regelungen: 
    
    a. Bei Stornierungen vor Erstellung des Storyboards fallen keine Stornogebühren an.
 
