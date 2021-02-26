@@ -34,11 +34,11 @@
 	],
 	"devDependencies": {
 		"autoprefixer": "^9.8.5",
-		"browser-sync": "^2.26.9",
+		"browser-sync": "^2.26.14",
 		"cuttlebelle": "latest",
 		"cssnano": "^4.1.10",
-		"moment": "^2.27.0",
-		"onchange": "^7.0.2",
+		"moment": "^2.29.1",
+		"onchange": "^7.1.0",
 		"postcss-cli": "^7.1.1"
 	}
 }
