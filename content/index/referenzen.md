@@ -76,6 +76,6 @@ refs:
   - name: Telekom
     img: telekom.png
   - name: SAE Institute
-    sae.png
+    img: sae.png
   - name: ESET
     img: eset.png
