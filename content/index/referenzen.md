@@ -88,4 +88,10 @@ refs:
     img: kochmedia.png
   - name: Faktenkontor
     img: faktenkontor.png
+  - name: Telekom
+    img: telekom.png
+  - name: SAE Institute
+    img: sae.png
+  - name: ESET
+    img: eset.png
 ---
