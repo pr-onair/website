@@ -2,7 +2,7 @@
 layout: homepage/references
 id: referenzen
 color: orange
-headline: Referenzen
+headline: Auszug aus unseren Referenzen
 refs:
   - name: Ubisoft
     # url: https://www.ubisoft.com
