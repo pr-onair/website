@@ -2,7 +2,7 @@
 layout: homepage/references
 id: referenzen
 color: orange
-headline: Referenzen
+headline: Auszug aus unseren Referenzen
 refs:
   - name: Ubisoft
     # url: https://www.ubisoft.com
@@ -88,4 +88,10 @@ refs:
     img: kochmedia.png
   - name: Faktenkontor
     img: faktenkontor.png
+  - name: Telekom
+    img: telekom.png
+  - name: SAE Institute
+    img: sae.png
+  - name: ESET
+    img: eset.png
 ---
