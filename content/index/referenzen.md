@@ -5,40 +5,29 @@ color: orange
 headline: Auszug aus unseren Referenzen
 refs:
   - name: Ubisoft
-    # url: https://www.ubisoft.com
     svg: ubisoft
   - name: Take-Two
-    # url: https://www.ubisoft.com
     svg: take-two
   - name: Oral B
-    # url: https://www.TODO.com
     svg: oralb
   - name: MSC Kreuzfahrten
-    # url: https://www.TODO.com
     svg: msc-kreuzfahrten
   - name: DGK
-    # url: https://www.TODO.com
     svg: dgk
   - name: BWP
-    # url: https://www.TODO.com
     svg: bwp
   - name: mymuesli
-    # url: https://www.TODO.com
     svg: mymuesli
   - name: Ullstein
-    # url: https://www.TODO.com
     img: ullstein.png
   - name: Viacom
     # url: https://www.viacom.com
     svg: viacom
   - name: Rotkäpchen
-    # url: https://TODO.com
     svg: rotkaepchen
   - name: Stage
-    # url: https://TODO.com
     svg: stage
   - name: Facebook
-    # url: https://TODO.com
     img: facebook_neu.png
   - name: Bristol-Myers Squibb
     svg: bristol-myers-squibb
@@ -66,12 +55,8 @@ refs:
     img: sfischer.png
   - name: Kaercher
     img: kaercher.png
-  - name: Ancestry
-    img: ancestry.png
   - name: THW
     img: thw.png
-  - name: Assemble Entertainment
-    img: assemble.png
   - name: ALK
     img: alk.png
   - name: Studienkreis
