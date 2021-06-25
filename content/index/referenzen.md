@@ -79,7 +79,7 @@ refs:
     img: sae.png
   - name: ESET
     img: eset.png
-  - name: Cewe
+  - name: CEWE
     img: cewe.png
   - name: Motor Presse
     img: motorpresse.png
