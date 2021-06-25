@@ -79,3 +79,9 @@ refs:
     img: sae.png
   - name: ESET
     img: eset.png
+  - name: Cewe
+    img: cewe.png
+  - name: Motor Presse
+    img: motorpresse.png
+  - name: Sanofi
+    img: sanofi.png
