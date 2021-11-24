@@ -7,8 +7,10 @@ textalign: left
 
 
 
-**Zum nächstmöglichen Zeitpunkt und für die Dauer von 24 Monaten suchen wir 
-eine/n Volontär*in (m/w/d) Audio-PR**
+**Zum nächstmöglichen Zeitpunkt und für die Dauer von 24 Monaten suchen wir** 
+
+
+**eine/n Volontär*in (m/w/d) Audio-PR**
 
 
 **Aufgaben**
