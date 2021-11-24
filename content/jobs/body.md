@@ -7,8 +7,10 @@ textalign: left
 
 
 
-**Zum nächstmöglichen Zeitpunkt und für die Dauer von 24 Monaten suchen wir 
-eine/n Volontär*in (m/w/d) Audio-PR**
+Zum nächstmöglichen Zeitpunkt suchen wir für die Dauer von 24 Monaten:
+
+
+**Volontär*in (m/w/d) Audio-PR**
 
 
 **Aufgaben**
@@ -37,7 +39,7 @@ eine/n Volontär*in (m/w/d) Audio-PR**
 -	die Möglichkeit einer langfristigen Zusammenarbeit mit Potenzial zum kreativen Austoben, Aufstiegschancen und einer Weiterbeschäftigung nach Abschluss des Volontariats
 
 
-Wir freuen uns auf Bewerbungen per E-Mail an Britta Borgsen: borgsen(at)pr-on-air.de	
+**Wir freuen uns auf Bewerbungen per E-Mail an Britta Borgsen: borgsen(at)pr-on-air.de**	
 
 
-**Wenn Sie mit Ihrem Qualifikationsprofil zu PR ON AIR passen, prüfen wir Ihre Bewerbung auch gerne hinsichtlich anderer aktueller oder zukünftiger Beschäftigungsmöglichkeiten.**
+Wenn Sie mit Ihrem Qualifikationsprofil zu PR ON AIR passen, prüfen wir Ihre Bewerbung auch gerne hinsichtlich anderer aktueller oder zukünftiger Beschäftigungsmöglichkeiten.
