@@ -7,7 +7,8 @@ textalign: left
 
 
 
-**Zum nächstmöglichen Zeitpunkt und für die Dauer von 24 Monaten suchen wir eine/n Volontär*in (m/w/d) Audio-PR**
+**Zum nächstmöglichen Zeitpunkt und für die Dauer von 24 Monaten suchen wir 
+eine/n Volontär*in (m/w/d) Audio-PR**
 
 
 **Aufgaben**
@@ -16,7 +17,7 @@ textalign: left
 -	Social Media-Redaktion, Newsletter-Betreuung
 -	Projektkontrollen und –dokumentationen
 -	Manuskript-Erstellung und -Abstimmung
--	Unterstützung der Kundenberatung sowie Mitarbeit bei der Projekt-Konzeption und –Umsetzung (je nach Qualifikation und Interessenschwerpunkt)
+-	Unterstützung der Kundenberatung sowie Mitarbeit bei der Projekt-Umsetzung (je nach Qualifikation und Interessenschwerpunkt)
 
 
 **Unsere Erwartungen**
