@@ -36,7 +36,7 @@ textalign: left
 -	die Möglichkeit einer langfristigen Zusammenarbeit mit Potenzial zum kreativen Austoben, Aufstiegschancen und einer Weiterbeschäftigung nach Abschluss des Volontariats
 
 
-Wir freuen uns auf Bewerbungen per E-Mail an Britta Borgsen: borgsen@pr-on-air.de	
+Wir freuen uns auf Bewerbungen per E-Mail an Britta Borgsen: borgsen(at)pr-on-air.de	
 
 
 **Wenn Sie mit Ihrem Qualifikationsprofil zu PR ON AIR passen, prüfen wir Ihre Bewerbung auch gerne hinsichtlich anderer aktueller oder zukünftiger Beschäftigungsmöglichkeiten.**
