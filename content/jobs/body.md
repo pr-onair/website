@@ -4,7 +4,8 @@ textalign: left
 
 [← Startseite](/)
 
-Aktuell haben wir zwei vakante Stellen.
+**Aktuell haben wir zwei vakante Stellen.**
+
 
 1: Für unseren Standort in Leipzig suchen wir eine/n
 
