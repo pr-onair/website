@@ -41,7 +41,7 @@ Wenn Du mit Deinem Qualifikationsprofil zu PR ON AIR passt, prüfen wir Deine In
 
 
 ---
-textalign: left
+
 ---
 
 [← Startseite](/)
