@@ -10,14 +10,14 @@ textalign: left
 1: Für unseren Standort in Leipzig suchen wir eine/n
 
 
-**Volontär*in (m/w/d) Audio-PR**
+**Volontär:in (m/w/d) Audio-PR**
 
 
 Das Volontariat ist auf wahlweise 18 oder 24 Monate ausgelegt und kann jederzeit begonnen werden.
 
 
 **Aufgaben**
--	Ansprechpartner*in für Journalist*innen; Aufbau und Pflege von Medienkontakten
+-	Ansprechpartner:in für Journalist:innen; Aufbau und Pflege von Medienkontakten
 -	Bundesweite Platzierung unserer Hörfunkformate, Gewinnspielabwicklungen
 -	Social Media-Redaktion, Newsletter- und Portalbetreuung (meinaudioservice.de)
 -	Projektkontrollen und –dokumentationen
@@ -58,7 +58,7 @@ Wenn Du mit Deinem Qualifikationsprofil zu PR ON AIR passt, prüfen wir Deine In
 **Was Du bei uns machst**
 
 
-Als erste/r Ansprechpartner*in für Journalist*innen bundesweit stehst Du im täglichen Austausch mit Radiomacher*innen. Du stellst unsere Themen vor, wickelst Gewinnspielaktionen ab und baust auf jahrelang gewachsenen Medienkontakten auf.  Projektdokumentationen sowie die Newsletter- und Portalbetreuung (meinaudioservice.de) gehören ebenso zu Deinen Aufgaben wie die strategische Führung und Verantwortung für unsere Social Media-Kanäle. Je nach Qualifikation und Interessenschwerpunkt kannst Du jederzeit auch in anderen Bereichen unserer Agentur (Redaktion, Kundenberatung) mitwirken.
+Als erste/r Ansprechpartner:in für Journalist:innen bundesweit stehst Du im täglichen Austausch mit Radiomacher:innen. Du stellst unsere Themen vor, wickelst Gewinnspielaktionen ab und baust auf jahrelang gewachsenen Medienkontakten auf.  Projektdokumentationen sowie die Newsletter- und Portalbetreuung (meinaudioservice.de) gehören ebenso zu Deinen Aufgaben wie die strategische Führung und Verantwortung für unsere Social Media-Kanäle. Je nach Qualifikation und Interessenschwerpunkt kannst Du jederzeit auch in anderen Bereichen unserer Agentur (Redaktion, Kundenberatung) mitwirken.
 
 
 **Was Du dafür mitbringst**
