@@ -1,8 +1,6 @@
 ---
 layout: header
 nav:
-  - url: /podcast/
-    name: Podcast
   - url: /koepfe/
     name: Köpfe
   - url: /datenschutz/
