@@ -8,7 +8,7 @@
 **Angaben gem&auml;&szlig; &sect; 5 TMG**
  
 PR ON AIR UG (haftungsbeschr&auml;nkt)<br>
-Holbeinstra&szlig;e 29<br>
+Ruststraße 1<br>
 04229 Leipzig
  
 Handelsregister: HRB 35269<br>
@@ -20,8 +20,7 @@ Christian Goller
  
 ## Kontakt
  
-Telefon: +49 (0) 341 484 74 303<br>
-Telefax: +49 (0) 341 484 74 491<br>
+Telefon: +49 (0) 341 24 953 818<br>
 E-Mail: info@pr-on-air.de
  
 ## Umsatzsteuer
