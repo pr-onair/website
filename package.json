@@ -37,7 +37,7 @@
 		"browser-sync": "^2.26.14",
 		"cuttlebelle": "latest",
 		"cssnano": "^4.1.10",
-		"moment": "^2.29.1",
+		"moment": "^2.29.2",
 		"onchange": "^7.1.0",
 		"postcss-cli": "^7.1.1"
 	}
