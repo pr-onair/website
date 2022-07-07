@@ -7,7 +7,7 @@ textalign: left
 # ALLGEMEINE GESCHÄFTSBEDINGUNGEN (AGB)
 
 # § 1 Anwendbarkeit
-1. Diese Geschäftsbedingungen regeln die vertraglichen Beziehungen zwischen der PR ON AIR UG, Holbeinstraße 29, 04229 Leipzig (im Folgenden „PR ON AIR“ genannt) und Auftraggebern (nachstehend „Auftraggeber“) von PR ON AIR.  
+1. Diese Geschäftsbedingungen regeln die vertraglichen Beziehungen zwischen der PR ON AIR UG, Ruststraße 1, 04229 Leipzig (im Folgenden „PR ON AIR“ genannt) und Auftraggebern (nachstehend „Auftraggeber“) von PR ON AIR.  
 2. Diese AGB gelten auch für zukünftige Geschäfte, selbst wenn nicht ausdrücklich darauf Bezug genommen worden ist, sofern sie dem Vertragspartner im Zusammenhang mit einem bereits getätigten Geschäft zugegangen sind, bzw. darauf Bezug genommen wurde.
 3. Änderungen und Erweiterungen dieser AGB werden nur dann gültig, wenn diese im Einvernehmen zwischen dem Auftraggeber und PR ON AIR in schriftlicher Form erfolgen.
 4. Diese AGB gelten ausschließlich. Entgegenstehende oder von diesen AGB abweichende Anforderungen des Auftraggebers werden nicht anerkannt, sofern ihrer Geltung nicht ausdrücklich zugestimmt wurde. Diese AGB gelten auch dann, wenn PR ON AIR in Kenntnis entgegenstehender oder von diesen Geschäftsbedingungen abweichender Bedingungen des Auftraggebers die vereinbarten Leistungen vorbehaltlos ausführt.
