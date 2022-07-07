@@ -30,7 +30,7 @@ DE 319 859 988
  
 **Verantwortlich f&uuml;r den Inhalt nach &sect; 55 Abs. 2 RStV**<br>
 Britta Borgsen, Christian Goller<br>
-Holbeinstra&szlig;e 29<br>
+Ruststraße 1<br>
 04229 Leipzig
  
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
