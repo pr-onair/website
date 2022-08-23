@@ -67,10 +67,10 @@ Wir verwenden in dieser Datenschutzerklärung unter anderem die folgenden Begrif
 Verantwortlicher im Sinne der Datenschutz-Grundverordnung, sonstiger in den Mitgliedstaaten der Europäischen Union geltenden Datenschutzgesetze und anderer Bestimmungen mit datenschutzrechtlichem Charakter ist die:
 
 **PR ON AIR UG** (haftungsbeschränkt)<br>
-Holbeinstraße 29<br>
+Ruststraße 1<br>
 04229 Leipzig<br>
 Deutschland<br>
-Tel.: 0341 484 74 303<br>
+Tel.: 0341 249 53 818<br>
 E-Mail: info@pr-on-air.de<br>
 Website: www.pr-on-air.de
 
